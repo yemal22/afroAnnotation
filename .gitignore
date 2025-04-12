@@ -1,0 +1,6 @@
+annot_venv
+.env
+data/raw/
+data/others/
+.ipynb_checkpoints
+__pycache__/
