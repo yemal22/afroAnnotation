@@ -161,3 +161,44 @@ Imaginons ce à quoi pourrait ressembler chaque description dans chaque catégor
 **Description :**  
 > "Un plat sénégalais de riz, poisson et légumes servi dans une grande assiette partagée."
 
+# 📦 Fusion des datasets : Fashion & Cuisine Africaines
+
+## 1. Objectif
+Créer un dataset unifié pour entraîner un modèle de *captioning* sur des images africaines dans deux catégories :
+- 🧵 Fashion (vêtements traditionnels, motifs wax)
+- 🍲 Cuisine (plats nigérians, ghanéens et camerounais)
+
+---
+
+## 2. Datasets sources
+
+### 🧵 Fashion
+- **african-attire**
+  - Format : `(image, label)`
+  - Labels : 10 groupes ethniques (ex. Yoruba, Zulu, Ashanti…)
+- **wax-patterns**
+  - Format : `(image)`
+  - Images de motifs textiles wax (pas de labels)
+
+### 🍲 Cuisine
+- **nigerian-dishes**
+  - Format : `(image, label)`
+  - 10 catégories (ex. jollof rice, egusi soup, suya…)
+- **ghanaian-cameroonian-dishes**
+  - Format : `(image, label)`
+  - 6 catégories (ex. thieboudienne, eru, banku…)
+
+---
+
+## 3. Format cible du dataset fusionné
+
+Chaque élément doit suivre le format suivant :
+```json
+{
+  "image_path": "path/to/image.jpg",
+  "category": "fashion" | "food",
+  "sub_category": "Yoruba attire" | "Ankara pattern" | "Egusi soup" | "Thieboudienne", 
+  "caption": "Une femme portant une robe traditionnelle yoruba en tissu wax coloré."
+}
+```
+
