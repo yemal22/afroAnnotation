@@ -96,7 +96,7 @@ def describe_image(prompt, *, image=None, image_format="JPEG", image_url=None, s
     
 if __name__ == '__main__':
     # Example usage
-    image_path = "data/african-culture-1/Nigerian Food Dataset/nigerian_food_dataset/test/akara/akara_167.jpg"
+    image_path = "data/others/Nigerian Food Dataset/nigerian_food_dataset/test/akara/akara_167.jpg"
     image = Image.open(image_path)
     prompt = "Dis moi ce que tu vois sur l'image."
     

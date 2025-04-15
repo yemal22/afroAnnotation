@@ -2,5 +2,6 @@ annot_venv
 .env
 data/raw/
 data/others/
+data/processed/
 .ipynb_checkpoints
 __pycache__/

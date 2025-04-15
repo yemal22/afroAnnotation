@@ -9,39 +9,30 @@ main domains: Fashion and Food. It ensures label consistency by:
 3. Concatenating datasets with and without labels, preserving metadata.
 4. Saving the merged datasets for future use (e.g., image captioning, classification).
 
-Author: Yémalin Emile Morel KPAVODE
-Date: April 2025
 """
 
-from datasets import load_from_disk, Dataset, DatasetDict, concatenate_datasets, ClassLabel
+from datasets import load_from_disk, Dataset, concatenate_datasets, Value, Features, Image as HfImage
+import pandas as pd
 import os
 
-def decode_label(example, label_feature):
+def convert_class_labels_to_strings(dataset):
     """
-    Converts a numeric label into its corresponding string label using ClassLabel.
-
-    Parameters:
-    - example (dict): Example from the dataset containing a numeric 'label'.
-    - label_feature (ClassLabel): The label feature to decode the label.
-
-    Returns:
-    - dict: Example with 'label' replaced by its string class name.
-    """
-    example['label'] = label_feature.int2str(example['label'])
-    return example
-
-def prepare_dataset_with_labels(dataset, label_feature):
-    """
-    Applies label decoding to a dataset with numeric labels.
+    Converts numeric labels in a dataset to their corresponding string labels.
 
     Parameters:
     - dataset (Dataset): A HuggingFace dataset with numeric labels.
-    - label_feature (ClassLabel): Feature object to map label integers to strings.
 
     Returns:
-    - Dataset: A new dataset with string-based labels.
+    - Dataset: The dataset with string-based labels.
     """
-    return dataset.map(lambda ex: decode_label(ex, label_feature))
+    label_feature = dataset.features['label'].names
+    df = dataset.to_pandas()
+    df['label'] = df['label'].apply(lambda x: label_feature[x])
+    features = Features({
+        "image": HfImage(),
+        "label": Value(dtype="string")
+    })
+    return Dataset.from_pandas(df, features=features).cast(features)
 
 def merge_fashion_datasets():
     """
@@ -58,13 +49,12 @@ def merge_fashion_datasets():
     # Load datasets
     attire_ds = load_from_disk(attire_path)['train']
     wax_ds = load_from_disk(wax_path)['train']
-
-    # Decode label in attire dataset
-    label_feature = attire_ds.features['label']
-    attire_ds = prepare_dataset_with_labels(attire_ds, label_feature)
-
+    
     # Add missing 'label' field to wax dataset with placeholder
-    wax_ds = wax_ds.map(lambda x: {'label': 'unknown'})
+    wax_ds = wax_ds.map(lambda x: {'label': 'wax-pattern'})
+    
+    # Convert numeric labels to string labels
+    attire_ds = convert_class_labels_to_strings(attire_ds)
 
     # Merge
     merged = concatenate_datasets([attire_ds, wax_ds])
@@ -79,17 +69,17 @@ def merge_food_datasets():
     Returns:
     - Dataset: Unified food dataset with consistent string-based labels.
     """
-    nigerian_path = "data/raw/nigerian-foods"
+    nigerian_path = "data/raw/food/nigeria-foods"
     gc_path = "data/raw/food/ghana-cameroun-foods"
 
     # Load datasets
     nigeria_ds = load_from_disk(nigerian_path)
     gc_ds = load_from_disk(gc_path)
 
-    # Decode labels
-    nigeria_ds = prepare_dataset_with_labels(nigeria_ds, nigeria_ds.features['label'])
-    gc_ds = prepare_dataset_with_labels(gc_ds, gc_ds.features['label'])
-
+    # Convert numeric labels to string labels
+    nigeria_ds = convert_class_labels_to_strings(nigeria_ds)
+    gc_ds = convert_class_labels_to_strings(gc_ds)
+    
     # Merge
     merged = concatenate_datasets([nigeria_ds, gc_ds])
     return merged
