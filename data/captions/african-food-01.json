@@ -1,0 +1,55 @@
+{
+  "prompt": "Describe this African dish labeled as 'okra soup'. Start with a short sentence about the type of food. Then describe visible ingredients, texture, color, plating style, and presentation. Avoid generalizations and only describe what is clearly visible in the image.",
+  "captions": [
+    {
+      "id": "img_00000",
+      "label": "okra soup",
+      "caption": "This is a vibrant, hearty soup, often enjoyed as a savory main dish.  \n\nThe dish features chunks of okra, visible as sliced green rounds with small white seeds, giving the soup a slightly viscous texture. There are cooked leafy greens scattered throughout, along with bits of what appear to be prawns, their orange-pink shells standing out. Large pieces of dark, stewed meat are visible, along with possible chunks of fatty or smoked protein. The soup has a rich, reddish base with orange-yellow oil floating on the surface, creating a glossy finish.  \n\nIt is served in a red enameled pot with rounded edges, enhancing its homey presentation. The overall plating is rustic and informal, meant to be served directly from the pot, showcasing the vibrant colors of the ingredients and steaming richness of the dish."
+    },
+    {
+      "id": "img_00001",
+      "label": "ogbono soup",
+      "caption": "Ogbono soup is a thick, savory, and richly spiced West African soup.  \n\nThe dish features a glossy, dark orange-brown base with a thick and viscous consistency indicative of ogbono (wild mango seed) used as a thickener. Visible ingredients include chunks of meat, including pieces of cow skin (\"ponmo\") and what appears to be a section of tripe. Small clusters of periwinkle or snail-like proteins can also be seen. Specks of finely chopped greens are dispersed throughout the soup, adding flecks of green color. The texture appears hearty, with a slightly oily surface that reflects light.  \n\nThe soup is served in a clean white bowl, accompanied by wooden cutlery, which adds a natural and rustic touch to the presentation. A second bowl of the same dish is visible in the background, placed on a checkered blue and white cloth, adding contrast and giving the scene a casual and homely feel."
+    },
+    {
+      "id": "img_00002",
+      "label": "jollof rice",
+      "caption": "Jollof rice is a popular West African rice-based dish.  \n\nIn this image, the dish consists of orange-red rice grains, indicating they are well-coated with a tomato-based sauce. Visible ingredients include slices of onions and small bits of what appears to be red peppers. The rice has a slightly moist texture, with individual grains distinct but sticking together lightly from the sauce. The color is vibrant, dominated by warm orange and red hues. The dish is served in a transparent rectangular plastic container, slightly filled to the brim with portions of rice. The overall presentation is simple, with no additional garnishes or toppings visible, offering a straightforward and appetizing view of the food. On the container, there is a small dark label with the text \"Soup Market\" in orange."
+    },
+    {
+      "id": "img_00003",
+      "label": "masa",
+      "caption": "Masa is a type of small, round fermented pancake commonly cooked in a specialized pan.  \n\nThe dish in the image shows roughly 12 dome-shaped pieces of masa resting in a blackened mold. The visible masas have a smooth, fluffy texture, with some having golden-brown tops speckled with lighter patterns and others appearing almost fully white, indicative of different stages of cooking or heat application. The masa has a light, airy appearance, suggesting a spongy or soft consistency. The cooking mold is a dark, seasoned material with circular indentations, with slight residue from the cooking process visible along the edges. There is no additional garnishing or embellishment shown in this presentation, emphasizing its preparation stage rather than final plating."
+    },
+    {
+      "id": "img_00004",
+      "label": "moimoi",
+      "caption": "Moimoi is a steamed bean pudding.  \n\nThe dish features eight circular portions placed neatly in rows on a shiny silver foil-lined tray. Each portion has a smooth, uniform texture with a slightly firm appearance and a light orange-brown color, possibly indicating cooked blended beans. There are a few tiny black dots visible on the surfaces, suggesting seasoning or spicing. The circular portions appear to have been molded into identical shapes for consistency. The presentation is clean and minimalist, with no visible garnishes or extra embellishments."
+    },
+    {
+      "id": "img_00005",
+      "label": "moimoi",
+      "caption": "Moimoi is a savory steamed pudding made from blended beans.  \n\nThe dish is cut into rectangular slices, and the texture appears firm yet soft, with visible chunks of ingredients embedded throughout. The color is a warm orange-brown, suggesting the inclusion of either palm oil or peppers. Small pieces of white egg are scattered within the dish, as well as specks of red, possibly indicating peppers or tomatoes. The surface shows a crumbly consistency with occasional uneven edges. It is plated on a plain white dish and garnished with a fresh sprig of parsley, which adds a touch of green contrast to the warm tones. The plate rests on a light background with a faint view of greenery outdoors."
+    },
+    {
+      "id": "img_00006",
+      "label": "masa",
+      "caption": "Masa is a type of small, round, fried or baked food, often similar to pancakes or flatbreads.  \n\nThe image shows four golden-brown, dome-shaped pieces with uneven patches of lighter, creamy white spots on their surfaces, indicating a soft texture inside contrasting with a slightly crispy exterior. The color ranges from light brown to warm golden, with a glossy surface that hints at either oil or a natural shine from cooking. The masa is served on a plate with a white and blue patterned design visible in the background. The presentation is simple, without visible garnishes or additional accompaniments."
+    },
+    {
+      "id": "img_00007",
+      "label": "okra soup",
+      "caption": "This is a hearty and richly textured traditional African soup.  \n\nThe visible ingredients include chopped green okra, recognizable by its small, rounded pieces with seeds. There are also red chili peppers and what appears to be chunks of tripe (beef stomach lining) with a honeycomb-like texture, darker brown pieces resembling cow skin, and other cuts of meat or fish embedded in the dish. The soup has a glossy texture, enhanced by a layer of oil that glistens under the light, likely palm oil, which gives the dish a vibrant reddish-orange base.  \n\nThe okra lends a slightly slimy texture to the soup, while the meats and other additions appear tender yet structured, adding depth. Small chopped bits of green vegetables are scattered throughout, along with visible seasoning flecks.  \n\nThe dish is presented in a stainless steel pot with a handle, giving a rustic, home-cooked feel. The mix of bright green, red, yellow, and brown colors creates a visually appealing contrast,"
+    },
+    {
+      "id": "img_00008",
+      "label": "jollof rice",
+      "caption": "Jollof rice is a flavorful rice dish cooked with spices and vegetables. The dish consists of orange-red rice grains, evenly coated in a tomato-based sauce, with visible pieces of sliced red onions, chopped red bell peppers, and green peas scattered throughout. The texture of the rice appears moist and slightly fluffy, with a glossy finish from the sauce. The vibrant orange color dominates, accented by the bright green of the peas and the red of the peppers. It is served in a black, rustic cast-iron pan, giving it a casual yet homey presentation, with a silver utensil partially visible on the side, ready for serving."
+    },
+    {
+      "id": "img_00009",
+      "label": "moimoi",
+      "caption": "Moi moi is a steamed bean pudding dish often enjoyed in West Africa.  \n\nThe image shows individual portions of moi moi served in small white ramekins. The dish has a smooth, custard-like texture with a few visible chunks of ingredients such as green peppers and thin, dark slices that could be fish or other protein. The primary color is a vibrant orange-yellow, dotted with small flecks of green, black, and red from spices and vegetables. Each ramekin is evenly filled, and the top surface appears slightly firm and baked, with some variation in texture and browning at the edges. The presentation is neat and arranged on a dark, glossy tray."
+    }
+  ]
+}
