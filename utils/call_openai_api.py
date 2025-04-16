@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 import os
 import requests
 
-from image import image_to_base64
+from utils.image import image_to_base64
 
 # Load environment variables from .env file
 load_dotenv()
@@ -15,7 +15,7 @@ API_KEY = os.getenv("AZURE_OPENAI_KEY")
 if API_KEY is None:
     raise ValueError("API key not found. Please set the AZURE_OPENAI_API_KEY environment variable.")
 
-def describe_image(prompt, *, image=None, image_format="JPEG", image_url=None, show_image=True):
+def describe_image(prompt, *, image=None, image_format="JPEG", image_url=None, label=None, show_image=True):
     """
     Sends a request to Azure OpenAI's GPT-4o model with a prompt and an image.
 
@@ -29,6 +29,7 @@ def describe_image(prompt, *, image=None, image_format="JPEG", image_url=None, s
         image_format (str, optional): The format of the image (e.g., "JPEG", "PNG").
             This is used to construct the correct MIME type in the data URL.
         image_url (str, optional): A direct URL to an image hosted online.
+        label (str, optional): A label for the image.
         show_image (bool, optional): Whether to display the image using matplotlib.
             Defaults to True. If False, the image will not be displayed.
 
@@ -43,6 +44,8 @@ def describe_image(prompt, *, image=None, image_format="JPEG", image_url=None, s
     )
 
     try:
+        if label is not None:
+            prompt = f"{prompt} The label of the image is {label}."
         # Build the image payload
         if image_url is not None:
             # Case 1: Image provided via URL
