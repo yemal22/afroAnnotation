@@ -77,6 +77,7 @@ def generate_captions(dataset_path, output_path, category="fashion", max_samples
             results.append({
                 "id": id,
                 "label": label_str,
+                "prompt": prompt,
                 "caption": None
             })
 
