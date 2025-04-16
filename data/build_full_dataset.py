@@ -58,6 +58,13 @@ def merge_fashion_datasets():
 
     # Merge
     merged = concatenate_datasets([attire_ds, wax_ds])
+    
+    # Add 5-digit ID field
+    merged = merged.map(
+        lambda x, idx: {'id': f"img_{idx:05d}"},
+        with_indices=True
+    )
+    
     return merged
 
 def merge_food_datasets():
@@ -82,6 +89,13 @@ def merge_food_datasets():
     
     # Merge
     merged = concatenate_datasets([nigeria_ds, gc_ds])
+    
+    # Add 5-digit ID field
+    merged = merged.map(
+        lambda x, idx: {'id': f"img_{idx:05d}"},
+        with_indices=True
+    )
+    
     return merged
 
 def save_merged_datasets():
