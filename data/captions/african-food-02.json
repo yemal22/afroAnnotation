@@ -1,0 +1,55 @@
+{
+  "prompt": "Describe this African dish labeled as 'okra soup'. Start with a short sentence about the type of food. Then describe visible ingredients, texture, color, plating style, and presentation. Avoid generalizations and only describe what is clearly visible in the image.",
+  "captions": [
+    {
+      "id": "img_00000",
+      "label": "okra soup",
+      "caption": "This is a vibrant and hearty soup featuring a mix of fresh ingredients.  \n\nVisible ingredients include sliced okra with its characteristic seeds, leafy greens, shrimp, and chunks of meat, possibly fish and smoked or dried meat. The texture appears thick and slightly viscous, typical of okra-based dishes. The soup is a mix of earthy green hues from the vegetables, bright orange"
+    },
+    {
+      "id": "img_00001",
+      "label": "ogbono soup",
+      "caption": "Ogbono soup is a traditional thick and hearty stew.  \n\nThe dish in the image appears to have a rich, glossy, and somewhat viscous texture, with a base color that is a deep reddish-brown. Visible ingredients include chunks of meat, what looks like cow skin (ponmo), and pieces of offal or tripe. Small bits of leafy green vegetables"
+    },
+    {
+      "id": "img_00002",
+      "label": "jollof rice",
+      "caption": "Jollof rice is a vibrant, flavorful rice-based dish commonly enjoyed in West Africa.  \n\nThe dish consists of orange-colored rice grains with a glossy appearance, indicating it has been cooked in a tomato-based sauce. Visible ingredients include onion slices, small pieces of what appear to be red peppers or tomatoes, and other subtle vegetable fragments integrated into the rice. The texture looks slightly"
+    },
+    {
+      "id": "img_00003",
+      "label": "masa",
+      "caption": "Masa is a type of small, rounded pancake-like food. The visible masa pieces have a light and fluffy texture with slightly uneven surfaces. Their colors range from pale cream to golden brown, with some showing speckled patterns of browning on their tops. They are being prepared in a dark, circular mold pan, with each masa sitting in an individual depression. The presentation"
+    },
+    {
+      "id": "img_00004",
+      "label": "moimoi",
+      "caption": "Moinmoin is a steamed Nigerian bean pudding typically made from blended beans and spices.  \n\nIn the image, the dish is prepared in circular portions, all uniform in shape and size, resembling small cakes or patties. The surface is smooth with a slightly glossy texture, signaling it has been cooked thoroughly. The color is a warm, earthy orange-brown, with tiny"
+    },
+    {
+      "id": "img_00005",
+      "label": "moimoi",
+      "caption": "Moimoi is a steamed savory pudding made from blended beans.  \n\nThe dish is cut into rectangular slices and reveals a dense, moist texture. It has a vibrant orange hue with visible pieces of white, which appear to be slices of boiled eggs, and small reddish bits likely indicating peppers or tomatoes. The surface is slightly coarse, suggesting a custard-like consistency. The mo"
+    },
+    {
+      "id": "img_00006",
+      "label": "masa",
+      "caption": "Masa is a round, pancake-like savory dish.  \n\nThe visible dish consists of golden-brown, slightly domed rounds with a speckled surface featuring light and darker patches, suggesting a crisp exterior. The texture appears smooth and slightly fluffy with a firm crust. The color ranges from light brown to deeper, caramelized areas. The masa is plated on a plate with"
+    },
+    {
+      "id": "img_00007",
+      "label": "okra soup",
+      "caption": "Okra soup is a hearty, savory dish commonly served in African cuisine.  \n\nThe image displays a pot of soup with visibly chopped green okra pieces scattered throughout, lending a slightly slimy and glossy texture characteristic of this vegetable. The dish contains chunks of assorted meats, including shiny brown cow skin, spongy yellow tripe, and possibly goat or beef pieces, some"
+    },
+    {
+      "id": "img_00008",
+      "label": "jollof rice",
+      "caption": "Jollof rice is a vibrant, rice-based dish popular in West Africa. The dish features long-grain rice coated in a reddish-orange sauce, likely tomato-based, giving it a rich, uniform color. Visible ingredients include sliced red onions, small chunks of red tomatoes, and green peas scattered throughout. The texture appears slightly moist with individual grains of rice distinguishable but coated"
+    },
+    {
+      "id": "img_00009",
+      "label": "moimoi",
+      "caption": "Moi moi is a savory steamed bean pudding.  \n\nThis dish is presented in individual white ramekins, filled with a bright orange mixture featuring a smooth but slightly grainy texture. Visible ingredients in the pudding include small pieces of green peppers, red chili fragments, and dark garnishes, possibly thin slices of onions or leaves, adding contrasting flecks of color. The surface appears baked"
+    }
+  ]
+}

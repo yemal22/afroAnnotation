@@ -75,7 +75,7 @@ def describe_image(prompt, *, image=None, image_format="JPEG", image_url=None, l
                     image_payload
                 ]}
             ],
-            max_tokens=200
+            max_tokens=75
         )
         
         description = response.choices[0].message.content

@@ -93,7 +93,7 @@ if __name__ == "__main__":
     # Fashion dataset
     generate_captions(
         dataset_path="data/processed/african-fashion",
-        output_path="data/captions/african-fashion.json",
+        output_path="data/captions/african-fashion-02.json",
         category="fashion",
         max_samples=10
     )
@@ -101,7 +101,7 @@ if __name__ == "__main__":
     # Food dataset
     generate_captions(
         dataset_path="data/processed/african-food",
-        output_path="data/captions/african-food.json",
+        output_path="data/captions/african-food-02.json",
         category="food",
         max_samples=10
     )
