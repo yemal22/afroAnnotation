@@ -1,0 +1,55 @@
+{
+  "prompt": "Briefly describe the African clothing labeled as 'Adire'. Focus only on what is visually evident: type of clothing, colors, patterns, and materials. Avoid speculation or general context. Keep the description concise and factual.",
+  "captions": [
+    {
+      "id": "img_00000",
+      "label": "Adire",
+      "caption": "The clothing labeled as 'Adire' in the image features a loose, flowing fabric predominantly in dark blue with white geometric patterns. The material appears soft and patterned. The man wearing it has layered the fabric over white clothing beneath."
+    },
+    {
+      "id": "img_00001",
+      "label": "Adire",
+      "caption": "The clothing labeled as 'Adire' consists of loose, draped fabrics typically worn as wraps. They feature deep blue or indigo tones with lighter patterns, often geometric or abstract, achieved through a tie-dye technique. The material appears to be a soft, lightweight fabric, likely cotton."
+    },
+    {
+      "id": "img_00002",
+      "label": "Adire",
+      "caption": "The clothing consists of a matching set made from a rich indigo fabric with white geometric patterns resembling star or flower shapes. It includes a fitted dress with sleeves and a matching headwrap, likely made of cotton or similar material."
+    },
+    {
+      "id": "img_00003",
+      "label": "Adire",
+      "caption": "The image shows fabric with indigo and white tones, featuring intricate geometric and abstract patterns. The patterns include grids, triangles, spirals, stripes, and dotted alignments. The material appears to be a soft textile with detailed dyeing techniques."
+    },
+    {
+      "id": "img_00004",
+      "label": "Adire",
+      "caption": "The image shows three individuals. The two women are wearing matching outfits consisting of patterned skirts and headwraps with a dark blue and white design resembling traditional African motifs. They pair these with plain white tops. The man is wearing a light cream-colored flowing traditional outfit, consisting of a long tunic and a matching cap."
+    },
+    {
+      "id": "img_00005",
+      "label": "Adire",
+      "caption": "The clothing is a coordinated outfit consisting of a fitted dress and a matching headwrap. The fabric features a dark blue base with striking white geometric and star-like patterns. It appears to be made from a lightweight material, possibly cotton. White beaded accessories complement the outfit."
+    },
+    {
+      "id": "img_00006",
+      "label": "Adire",
+      "caption": "The image shows a group of men wearing wrap-around garments made of fabric with visible tie-dye or resist-dye patterns. The primary colors are deep blue, with white and pink accents in some designs. The patterns are bold, geometric, and floral. The material appears to be soft and lightweight, likely cotton."
+    },
+    {
+      "id": "img_00007",
+      "label": "Adire",
+      "caption": "The image shows a sleeveless garment made from dark blue fabric featuring white tie-dye patterns in geometric shapes. A prominent stylized design, possibly depicting a fish, is visible in white on the front. The edges are lined with decorative white stitches. The material appears to be lightweight and textile-based."
+    },
+    {
+      "id": "img_00008",
+      "label": "Adire",
+      "caption": "The clothing is an off-shoulder dress made of blue fabric with a repeating white geometric star-like pattern. It appears to be made from a lightweight material. The woman's headpiece includes red and black colors."
+    },
+    {
+      "id": "img_00009",
+      "label": "Adire",
+      "caption": "The individuals are wearing wrap-around garments made from indigo-dyed fabric, featuring white resist-dyed patterns such as dots, lines, and abstract shapes. The material appears to be cotton. Some of them also wear head coverings made from the same patterned fabric."
+    }
+  ]
+}

@@ -7,22 +7,25 @@ import os
 
 def get_prompt(category, label):
     """
-    Returns a refined prompt based on the dataset category and label.
+    Returns a refined and concise prompt based on the dataset category and label.
     """
     if category == "fashion":
         return (
-            f"Describe this piece of African clothing labeled as '{label}'. "
-            "Start with a short sentence about the type of attire. Then describe visible patterns, materials, colors, and cultural significance if it can be inferred visually. "
-            "Avoid general descriptions and focus on visual elements only."
+            f"Briefly describe the African clothing labeled as '{label}'. "
+            "Focus only on what is visually evident: type of clothing, colors, patterns, and materials. "
+            "Avoid speculation or general context. Keep the description concise and factual."
         )
     elif category == "food":
         return (
-            f"Describe this African dish labeled as '{label}'. "
-            "Start with a short sentence about the type of food. Then describe visible ingredients, texture, color, plating style, and presentation. "
-            "Avoid generalizations and only describe what is clearly visible in the image."
+            f"Briefly describe the African dish labeled as '{label}'. "
+            "Only describe what is visually clear: ingredients, textures, colors, and presentation. "
+            "Avoid general or cultural context. Keep the response short and precise."
         )
     else:
-        return "Describe this image."
+        return (
+            "Briefly describe the image, focusing only on visible elements. Keep the response short."
+        )
+
 
 def generate_captions(dataset_path, output_path, category="fashion", max_samples=None):
     """
@@ -93,7 +96,7 @@ if __name__ == "__main__":
     # Fashion dataset
     generate_captions(
         dataset_path="data/processed/african-fashion",
-        output_path="data/captions/african-fashion-02.json",
+        output_path="data/captions/african-fashion-03.json",
         category="fashion",
         max_samples=10
     )
@@ -101,7 +104,7 @@ if __name__ == "__main__":
     # Food dataset
     generate_captions(
         dataset_path="data/processed/african-food",
-        output_path="data/captions/african-food-02.json",
+        output_path="data/captions/african-food-03.json",
         category="food",
         max_samples=10
     )

@@ -1,0 +1,55 @@
+{
+  "prompt": "Briefly describe the African dish labeled as 'okra soup'. Only describe what is visually clear: ingredients, textures, colors, and presentation. Avoid general or cultural context. Keep the response short and precise.",
+  "captions": [
+    {
+      "id": "img_00000",
+      "label": "okra soup",
+      "caption": "The dish is a thick soup with a glossy, green tone from chopped okra, interspersed with chunks of leafy greens, shrimp, and pieces of meat. The broth appears reddish-orange with visible oil on the surface. It is served in a red pot with a visually rich and textured appearance."
+    },
+    {
+      "id": "img_00001",
+      "label": "ogbono soup",
+      "caption": "The dish is a thick, dark brown soup with a glossy texture. It contains pieces of meat, some with visible skin and a chewy appearance, leafy green vegetables, and a rich, oily consistency. It is served in a wide, white bowl with a wooden spoon."
+    },
+    {
+      "id": "img_00002",
+      "label": "jollof rice",
+      "caption": "The image shows a container filled with orange-colored rice grains, mixed with small visible pieces of onion and some unidentified small red or brown bits. The rice appears moist with a slightly glossy texture."
+    },
+    {
+      "id": "img_00003",
+      "label": "masa",
+      "caption": "The dish consists of small, round cakes with a spongy texture. They are light beige on top, featuring a golden-brown, slightly mottled surface. They appear to be cooked in a dark-colored pan with rounded molds. Some cakes are paler, suggesting varying levels of browning."
+    },
+    {
+      "id": "img_00004",
+      "label": "moimoi",
+      "caption": "The dish consists of eight round, orange-brown, slightly glossy portions placed on a reflective foil surface. The texture appears smooth and firm with a few small black spots on the surface."
+    },
+    {
+      "id": "img_00005",
+      "label": "moimoi",
+      "caption": "The dish consists of rectangular orange-brown slices with a soft, compact texture. It contains visible chunks of white ingredients, likely eggs, and red specks scattered throughout. The slices are garnished with a sprig of fresh parsley and served on a white plate."
+    },
+    {
+      "id": "img_00006",
+      "label": "masa",
+      "caption": "The dish consists of round, fluffy pieces with a golden-brown, slightly crispy exterior and a soft, light interior. The texture appears smooth with some small, uneven specks. The color transitions from golden to pale white."
+    },
+    {
+      "id": "img_00007",
+      "label": "okra soup",
+      "caption": "The dish in the image is a vibrant mixture of green chopped okra, red peppers, and golden-yellow stew with visible textures of assorted meat, including tripe and cow skin. The stew appears oily, with a rich reddish-brown sauce. It is presented in a metallic pot."
+    },
+    {
+      "id": "img_00008",
+      "label": "jollof rice",
+      "caption": "The dish consists of orange-red rice grains with a slightly oily texture. Visible ingredients include slices of red onions, diced tomatoes, green peas, and small pieces of other vegetables. It is served in a black skillet with a silver spoon."
+    },
+    {
+      "id": "img_00009",
+      "label": "moimoi",
+      "caption": "The dish consists of a soft, pudding-like texture in individual white ramekins. It has an orange to light yellow base color with visible specks of red, green, and dark bits, possibly herbs or vegetables, scattered throughout. The surface appears smooth with a slight glossy sheen, suggesting a moist consistency."
+    }
+  ]
+}
