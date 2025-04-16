@@ -1,0 +1,55 @@
+{
+  "prompt": "In this image, describe the African dish labeled 'okra soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+  "captions": [
+    {
+      "id": "img_00000",
+      "label": "okra soup",
+      "caption": "The image depicts a colorful and hearty African dish served in a red cooking pot. The okra soup is thick and vibrant, with visible chunks of cooked okra, finely chopped green leafy vegetables, and a reddish base sauce. Among the ingredients, there are pieces of shrimp, chunks of fish or meat"
+    },
+    {
+      "id": "img_00001",
+      "label": "ogbono soup",
+      "caption": "The image shows a rich and hearty serving of ogbono soup in a white bowl. The soup has a thick, glossy, and slightly oily consistency with a deep orange-brown color, indicating the presence of spices and palm oil. Visible ingredients include chunks of assorted meat, cow skin (locally"
+    },
+    {
+      "id": "img_00002",
+      "label": "jollof rice",
+      "caption": "The image shows jollof rice served in a transparent rectangular plastic container. The rice is vibrant orange, indicative of the tomato and seasoning base used in its preparation. Visible ingredients include rice grains, chopped onion slices, and pieces of what appears to be cooked red peppers or tomatoes blended into the dish."
+    },
+    {
+      "id": "img_00003",
+      "label": "masa",
+      "caption": "The image displays a batch of golden-brown and white puffed, circular cakes sitting in a multi-cavity pan, suggesting they are being cooked or recently cooked. The cakes appear soft and fluffy with a slight crispiness on the browned parts and smooth surfaces on the white sections, indicating varied cooking stages"
+    },
+    {
+      "id": "img_00004",
+      "label": "moimoi",
+      "caption": "The image shows eight evenly sized portions of moimoi, arranged in two neat rows of four on what appears to be aluminum foil. Each portion is circular with a smooth, slightly glossy orange-brown surface. The texture appears firm but soft, and there are a few small, dark specks visible"
+    },
+    {
+      "id": "img_00005",
+      "label": "moimoi",
+      "caption": "This image shows a plate of neatly sliced moimoi, an African dish with a moist and compact texture. The dish is orange-brown in color, and the visible ingredients include chopped pieces of boiled egg, which are embedded within the slices, as well as some flecks of red and white that"
+    },
+    {
+      "id": "img_00006",
+      "label": "masa",
+      "caption": "The image shows four round, golden-brown masa balls with a slightly puffy and fluffy texture. The surface of each masa has a distinct, light golden sear that suggests they may be fried or baked, with patches of lighter, cream-colored spots indicating a soft interior. They are arranged in close"
+    },
+    {
+      "id": "img_00007",
+      "label": "okra soup",
+      "caption": "The image portrays a vibrant dish of okra soup served in a stainless steel pot with visible handles. The soup features chopped okra pieces that give the dish a slightly chunky and slimy texture, with a mix of colors including green from the okra, red from diced peppers, and golden-brown"
+    },
+    {
+      "id": "img_00008",
+      "label": "jollof rice",
+      "caption": "The image shows a serving of jollof rice presented in a black skillet. The dish features vibrant orange-colored rice, likely cooked in a tomato-based sauce. Visible ingredients include sliced red onions, green peas, and pieces of red and orange bell peppers, adding visual contrast and texture to the dish."
+    },
+    {
+      "id": "img_00009",
+      "label": "moimoi",
+      "caption": "The image shows several servings of the African dish moimoi, presented neatly in white ramekins. The moimoi has a smooth, pudding-like texture with a golden-orange hue. Visible ingredients include small bits of vegetables, likely green peppers, and red flecks, possibly from bell peppers or chili"
+    }
+  ]
+}

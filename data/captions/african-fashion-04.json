@@ -1,0 +1,55 @@
+{
+  "prompt": "In this image, describe the person or group wearing 'Adire' clothing. Indicate whether it's a man, woman, child, or group, and focus on their clothing style, colors, and patterns. Mention any visible accessories, fabrics (like wax or vlisco), and cultural hints if they are visually obvious. Do not explain what the label means. Only describe what can be seen.",
+  "captions": [
+    {
+      "id": "img_00000",
+      "label": "Adire",
+      "caption": "The image shows a man seated on an ornate wooden throne. He is wearing traditional clothing made from Adire fabric. The fabric has a bold, geometric pattern in navy blue and white. The design appears intricate and covers both his outfit and the matching cap he is wearing, which has a similar geometric pattern"
+    },
+    {
+      "id": "img_00001",
+      "label": "Adire",
+      "caption": "The image shows a group of people, likely adults and mostly men, gathered outdoors in a natural setting. Many of them are wearing traditional 'Adire' clothing, which features hand-dyed fabrics with intricate patterns. The dominant colors are blue, white, and shades of black, characteristic of indigo"
+    },
+    {
+      "id": "img_00002",
+      "label": "Adire",
+      "caption": "The image shows a woman wearing a matching ensemble made of blue and white patterned Adire fabric with star-like geometric designs. The outfit includes a fitted dress with elbow-length sleeves and a matching headwrap (gele) styled elaborately. She accessorizes with a gold wristwatch and layered coral or bead-like"
+    },
+    {
+      "id": "img_00003",
+      "label": "Adire",
+      "caption": "This image does not show a person or group. Instead, it displays a textile pattern associated with Adire. The fabric features intricate and bold designs in a black-and-white color scheme. The patterns are geometric and organic, including lines, dots, triangles, spirals, and checkerboard-like sections."
+    },
+    {
+      "id": "img_00004",
+      "label": "Adire",
+      "caption": "The image shows a group comprising one man and two women. The women are dressed in coordinated outfits featuring long skirts and matching headpieces made from a patterned fabric resembling traditional Adire designs. The fabric appears to have a monochromatic dark color palette with lighter contrasting patterns, possibly in black, white, or"
+    },
+    {
+      "id": "img_00005",
+      "label": "Adire",
+      "caption": "The image shows a woman wearing Adire clothing. Her outfit consists of a matching dress and headwrap adorned with a deep blue and white geometric pattern resembling star-like shapes. She accessorizes with white bead necklaces, bracelets, and earrings, complementing the colors of her attire. The fabric has a distinct"
+    },
+    {
+      "id": "img_00006",
+      "label": "Adire",
+      "caption": "The image shows a group of men standing in a line. They are topless, wearing patterned cloths wrapped around their waists. These cloths are made from textiles showcasing traditional designs; the patterns include geometric and floral motifs. The dominant colors are navy blue, black, white, and hints of"
+    },
+    {
+      "id": "img_00007",
+      "label": "Adire",
+      "caption": "The image shows a single piece of clothing, possibly a garment like a tunic or dress, displayed on a hanger. The fabric is predominantly dark blue, with intricate patterns in lighter blue and white, forming geometric shapes and tie-dye effects typical of the style. A central decorative motif depicts a white"
+    },
+    {
+      "id": "img_00008",
+      "label": "Adire",
+      "caption": "The image shows a woman dressed in Adire clothing, which features a bold blue fabric with white star-like geometric patterns. The outfit is an off-shoulder style with flared sleeves, showcasing intricate tailoring. She is accessorized with a gold necklace, a bracelet, and a red traditional cap with"
+    },
+    {
+      "id": "img_00009",
+      "label": "Adire",
+      "caption": "The image shows a group of four men wearing traditional \"Adire\" clothing. Their clothing consists of indigo and white patterned fabrics, primarily with tie-dye designs. The patterns feature geometric shapes, lines, and some circular or floral elements, indicative of traditional hand-dyed techniques. Each man is"
+    }
+  ]
+}
