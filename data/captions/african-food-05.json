@@ -1,0 +1,1175 @@
+{
+  "prompt": "In this image, describe the African dish labeled 'okra soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+  "captions": [
+    {
+      "id": "img_03000",
+      "label": "jollof-ghana",
+      "prompt": "In this image, describe the African dish labeled 'jollof-ghana'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a tray of jollof rice with a bright orange and red hue, characteristic of a tomato-based preparation. The rice grains appear cooked to perfection, neither clumped nor overly moist. Scattered throughout the rice are visible ingredients including small chunks of meat and a few vegetables such as green"
+    },
+    {
+      "id": "img_03001",
+      "label": "ekwang",
+      "prompt": "In this image, describe the African dish labeled 'ekwang'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The dish depicted in this image has a rich, glossy, and thick sauce with a reddish-brown hue, indicating a flavorful base possibly made from palm oil and blended spices. It features tightly wrapped green leaves, likely cocoyam leaves, which appear to contain fillings, giving the dish a rolled or"
+    },
+    {
+      "id": "img_03002",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image depicts a serving of waakye, a Ghanaian dish consisting of rice cooked with black-eyed peas or kidney beans, giving it a distinct reddish-brown color. The waakye is accompanied by visible ingredients, including a piece of grilled or fried fish with crispy skin and a portion of"
+    },
+    {
+      "id": "img_03003",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The dish in the image consists of rice and beans (likely black-eyed peas or cowpeas), cooked together, resulting in a reddish-brown coloration. The rice appears fluffy, and the beans are well-integrated but distinctly visible throughout the dish. The reddish tint suggests the use of natural or spiced"
+    },
+    {
+      "id": "img_03004",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a serving of waakye presented in a white disposable container. The dish consists of distinct components. To the left, there is waakye, a mix of rice and beans with a slightly dark brown hue suggesting the inclusion of millet leaves or other color-enhancing ingredients. Adjacent"
+    },
+    {
+      "id": "img_03005",
+      "label": "ndole",
+      "prompt": "In this image, describe the African dish labeled 'ndole'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03006",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "This image shows waakye, a visually rich and colorful dish that combines multiple components. At the center is a serving of waakye rice, characterized by its reddish-purple hue, which comes from its preparation with sorghum leaves or millet leaves. The rice is paired with a thick, vibrant"
+    },
+    {
+      "id": "img_03007",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image features a dish served in a white bowl containing a rich, reddish-brown soup with a glossy appearance. In the soup, visible ingredients include a large piece of crab with its shell and claws intact and what appears to be a piece of fish or meat. The crab serves as a prominent centerpiece"
+    },
+    {
+      "id": "img_03008",
+      "label": "jollof-ghana",
+      "prompt": "In this image, describe the African dish labeled 'jollof-ghana'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a plate of food with a serving of jollof rice, presented with a rich, reddish-brown color suggesting it has been cooked with tomatoes and spices. The rice is accompanied by a fresh side salad that includes slices of avocado, shredded boiled egg, leafy greens, and what appears"
+    },
+    {
+      "id": "img_03009",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a bowl of waakye served on a patterned blue and white ceramic plate. The dish consists of brownish-purple rice, indicating the traditional coloring from dried millet leaves. Sprinkled across the surface are shredded yellowish toppings or garnishes. Portions of coated and fried golden-brown"
+    },
+    {
+      "id": "img_03010",
+      "label": "jollof-ghana",
+      "prompt": "In this image, describe the African dish labeled 'jollof-ghana'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a plated meal consisting of a vibrant orange rectangular mound of jollof rice as the centerpiece. The rice appears well-cooked and uniform, with a glossy finish suggesting flavorful seasoning. To the side, there are two pieces of grilled or roasted chicken, one featuring a golden-brown crispy"
+    },
+    {
+      "id": "img_03011",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a pot of palm nut soup, characterized by a rich, deep red-orange hue with a glossy surface layered with oil droplets, likely from the palm nut base. Visible ingredients include whole tomatoes immersed in the soup and patches of frothy yellow-orange oil floating on top. The soup has a"
+    },
+    {
+      "id": "img_03012",
+      "label": "jollof-ghana",
+      "prompt": "In this image, describe the African dish labeled 'jollof-ghana'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a dish of jollof rice with a pronounced reddish-orange hue, indicating it is well-seasoned and cooked in a rich tomato-based sauce. The rice grains are long and separate, with visible chunks of diced carrots scattered throughout. Accompanying the rice are large pieces of dark,"
+    },
+    {
+      "id": "img_03013",
+      "label": "eru",
+      "prompt": "In this image, describe the African dish labeled 'eru'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03014",
+      "label": "eru",
+      "prompt": "In this image, describe the African dish labeled 'eru'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a vibrant dish in a patterned bowl, consisting primarily of finely chopped dark green vegetables. These greens appear to be cooked and are well-coated in oil, giving them a glossy appearance. Surrounding these greens are various visible protein components: pieces of tripe (with a honeycomb texture),"
+    },
+    {
+      "id": "img_03015",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a bowl of palm-nut soup, characterized by its rich, orange-colored broth. The soup contains visible chunks of meat, likely a mix of assorted proteins such as beef or goat, and appears well-seasoned with visible traces of spices in the oil on the surface. A bright red"
+    },
+    {
+      "id": "img_03016",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a bowl of palm-nut soup with a vibrant orange-red color, indicating the rich, oily base of the dish. Visible ingredients include pieces of fish with dark skin and fleshy chunks possibly indicative of meats or vegetables stewed within the soup. The soup is served alongside a mound of"
+    },
+    {
+      "id": "img_03017",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a plate of waakye, a Ghanaian dish. The waakye itself is composed of reddish-brown rice and beans, which appear well-cooked and slightly moist. Accompanying the waakye are several additions: a portion of angel hair or spaghetti noodles, lightly"
+    },
+    {
+      "id": "img_03018",
+      "label": "ndole",
+      "prompt": "In this image, describe the African dish labeled 'ndole'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03019",
+      "label": "jollof-ghana",
+      "prompt": "In this image, describe the African dish labeled 'jollof-ghana'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a large, black, rectangular dish filled with jollof rice. The rice has a rich, reddish-orange color, indicating that it has been cooked with a tomato-based sauce and spices. Mixed into the rice are visible vegetable pieces, including green peas, corn kernels, and small orange"
+    },
+    {
+      "id": "img_03020",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a pot filled with a rich, reddish-brown soup. The soup has an oily texture and appears to have a thick consistency. Visible ingredients include leafy greens, chunks of meat, and small pieces of what could be nuts or other solid additions. The pot is metallic, wide, and"
+    },
+    {
+      "id": "img_03021",
+      "label": "eru",
+      "prompt": "In this image, describe the African dish labeled 'eru'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The dish consists of dark green shredded vegetables, traditionally prepared and rich with oil, giving it a glazed appearance. Visible ingredients include red scotch bonnet peppers, pieces of meat, and possible fish or smoked fish parts, adding texture and flavor to the dish. It is plated on a fresh green banana leaf"
+    },
+    {
+      "id": "img_03022",
+      "label": "jollof-ghana",
+      "prompt": "In this image, describe the African dish labeled 'jollof-ghana'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a serving of jollof rice. The dish consists of long-grain rice cooked in a reddish-brown sauce, indicating seasoning and spices. Visible ingredients include slices of carrots, chunks of green bell peppers, and possibly some onion pieces, which add texture and flavor to the dish."
+    },
+    {
+      "id": "img_03023",
+      "label": "jollof-ghana",
+      "prompt": "In this image, describe the African dish labeled 'jollof-ghana'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a large foil tray filled with Jollof rice, a vibrant orange-red colored rice dish. The rice appears to be perfectly cooked, with a slightly moist texture that suggests it is well-seasoned and infused with a tomato-based sauce. Scattered throughout the rice are chunks of what seem"
+    },
+    {
+      "id": "img_03024",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image showcases a bowl of palm-nut soup, characterized by its rich, reddish-orange color and hearty texture. Visible ingredients include chunks of meat, which could be beef or goat, richly coated in the thick sauce. There are also whole green okra pods, adding a fresh contrast to the dish"
+    },
+    {
+      "id": "img_03025",
+      "label": "ndole",
+      "prompt": "In this image, describe the African dish labeled 'ndole'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03026",
+      "label": "ndole",
+      "prompt": "In this image, describe the African dish labeled 'ndole'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03027",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a richly colored, thick reddish-orange soup with visible chunks of ingredients. Pieces of fish, crab claws, and other seafood dominate the dish, alongside what appear to be pieces of meat or chicken. The crab claw, with its yellowish shell and detailed texture, is particularly prominent. The"
+    },
+    {
+      "id": "img_03028",
+      "label": "ndole",
+      "prompt": "In this image, describe the African dish labeled 'ndole'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03029",
+      "label": "eru",
+      "prompt": "In this image, describe the African dish labeled 'eru'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "This image shows a dish presented on a white plate. The dish features a dark green leafy stew that appears rich and oily, with a reddish-orange oil visible along the edges. The stew has chunks of what appear to be meat or protein, possibly tripe or other cuts, along with small red peppers"
+    },
+    {
+      "id": "img_03030",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a dish consisting of rice mixed with black-eyed peas and red beans. The rice has a reddish-brown coloring, likely from being cooked with ingredients that impart color, such as dried leaves or other seasonings. The beans are evenly distributed throughout the dish, providing texture and visual contrast."
+    },
+    {
+      "id": "img_03031",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a pot of palm nut soup with a rich, golden-orange broth that appears creamy and slightly oily. Visible ingredients include pieces of fish, whole green peppers, and what looks like shrimp or prawn. There are also long, dark, fish-like cuts which may indicate smoked or dried fish"
+    },
+    {
+      "id": "img_03032",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a pot of waakye, a dish made from rice and beans, with the characteristic reddish-brown color imparted by dried millet leaves or sorghum leaves during the cooking process. The grains of rice are distinct, and there are visible bean pieces scattered throughout the mixture. A"
+    },
+    {
+      "id": "img_03033",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a bowl containing waakye, which appears as a mixture of rice and beans with a brownish hue, characteristic of the traditional preparation. Visible ingredients include pieces of what seems to be garnished, fried fish coated with a textured layer, possibly breadcrumbs or seasoning. Strands of yellow"
+    },
+    {
+      "id": "img_03034",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "This image shows a pot of palm nut soup, a dark, rich soup with a glossy surface. Visible ingredients include oil streaks or remnants from the palm nuts, green leafy vegetables, chunks of meat, and reddish-orange crabs, which are clearly identifiable. Pieces of what appear to be fish or"
+    },
+    {
+      "id": "img_03035",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The dish in the image is waakye, presented in a large white, ribbed serving dish. The dish primarily consists of reddish-brown rice mixed with black-eyed peas and red beans. The grains are moist and well-cooked, with a slightly sticky appearance. Interspersed are a few"
+    },
+    {
+      "id": "img_03036",
+      "label": "eru",
+      "prompt": "In this image, describe the African dish labeled 'eru'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03037",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a pot filled with palm nut soup, presenting a rich, reddish-brown color with swirls of orange and yellow oil on the surface, indicating the palm oil content. Visible whole red peppers are floating on top, adding a vibrant contrast to the dish. The soup appears thick and hearty"
+    },
+    {
+      "id": "img_03038",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a dish plated with an assortment of vibrant components. At the center is the waakye, a reddish-brown rice and beans mixture, appearing well-cooked and packed with visible grains and small beans. Surrounding the waakye are three accompaniments. To the right,"
+    },
+    {
+      "id": "img_03039",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a pot of waakye, a colorful dish made with steamed rice and beans. The rice has a reddish-brown hue, likely from the use of a natural colorant like millet leaves or sorghum, and is mixed with visible red beans. The texture appears moist and fluffy"
+    },
+    {
+      "id": "img_03040",
+      "label": "ndole",
+      "prompt": "In this image, describe the African dish labeled 'ndole'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03041",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The dish labeled 'waakye' is beautifully plated with distinct ingredients. It features reddish-brown rice and beans, a key component of the meal. Beside it is a portion of spaghetti, cooked and lightly arranged. Visible accompaniments include a leafy green salad to the side and a crispy"
+    },
+    {
+      "id": "img_03042",
+      "label": "jollof-ghana",
+      "prompt": "In this image, describe the African dish labeled 'jollof-ghana'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a dish of Jollof rice in a wide, shallow pot or pan. The rice has a vibrant orange-red hue, indicating it's been flavored and cooked with a tomato-based sauce and spices. Visible ingredients include well-separated grains of rice and some green bell pepper slices scattered throughout. A"
+    },
+    {
+      "id": "img_03043",
+      "label": "jollof-ghana",
+      "prompt": "In this image, describe the African dish labeled 'jollof-ghana'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a plate of jollof rice, presented in two neatly shaped mounds. The dish has a reddish-orange hue, suggesting it has been cooked with tomato-based seasoning. Visible on top of each mound are garnishes of sliced carrots, green bell pepper, and onion, adding a fresh"
+    },
+    {
+      "id": "img_03044",
+      "label": "eru",
+      "prompt": "In this image, describe the African dish labeled 'eru'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03045",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "This image shows a serving of waakye, a traditional Ghanaian dish. The base appears to consist of a rice and beans mixture, which has a reddish-brown color, likely from the inclusion of dried millet leaves used in preparation. On top of the rice, there is a rich, oily"
+    },
+    {
+      "id": "img_03046",
+      "label": "jollof-ghana",
+      "prompt": "In this image, describe the African dish labeled 'jollof-ghana'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a vibrant serving of jollof rice with a rich orange-red color, indicating a tomato-based seasoning. The grains of rice are separated and well-cooked. Visible in the dish are a few green garnishings, likely green bell peppers or chili slices, adding a touch of color contrast"
+    },
+    {
+      "id": "img_03047",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a close-up of a dish featuring waakye, a Ghanaian meal made primarily of rice and black-eyed peas or beans. The rice and beans are uniformly coated in a reddish-brown hue, likely from dried millet leaves traditionally used in its preparation. There appear to be a few"
+    },
+    {
+      "id": "img_03048",
+      "label": "eru",
+      "prompt": "In this image, describe the African dish labeled 'eru'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03049",
+      "label": "jollof-ghana",
+      "prompt": "In this image, describe the African dish labeled 'jollof-ghana'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image depicts a plate of jollof rice served on a brightly colored plate with a yellow background and multicolored polka dots. The rice appears to be orange-brown in color, indicating it has been cooked in a tomato-based sauce, which is characteristic of jollof rice. The"
+    },
+    {
+      "id": "img_03050",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a hearty bowl of palm nut soup, rich in a deep orange-brown color. Visible ingredients include chunks of meat, possibly goat or beef, and what appears to be a piece of crab with its shell intact, adding to the visual texture of the dish. There are also hints of"
+    },
+    {
+      "id": "img_03051",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a richly colored pot of palm nut soup, a vibrant, reddish-orange stew with visible oil separating on the surface. Within the soup, chunks of meat are present, likely including fish and other protein sources, as well as possible bone-in pieces. Darker greens or vegetable components appear to"
+    },
+    {
+      "id": "img_03052",
+      "label": "ndole",
+      "prompt": "In this image, describe the African dish labeled 'ndole'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03053",
+      "label": "eru",
+      "prompt": "In this image, describe the African dish labeled 'eru'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03054",
+      "label": "jollof-ghana",
+      "prompt": "In this image, describe the African dish labeled 'jollof-ghana'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a tray of jollof rice in an aluminum serving dish. The rice has a vibrant orange-red color, suggesting it has been cooked with a rich tomato-based sauce. Visible ingredients include long-grain rice, small pieces of vegetables like green peppers, and possibly some fragments of other spices"
+    },
+    {
+      "id": "img_03055",
+      "label": "ndole",
+      "prompt": "In this image, describe the African dish labeled 'ndole'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03056",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a pot of richly colored, thick palm-nut soup with a rich reddish-brown hue and an oily sheen on the surface. The visible ingredients include pieces of meat (possibly beef, goat, or fish, based on size and texture), which are cooked until tender and coated by the"
+    },
+    {
+      "id": "img_03057",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a pot of palm nut soup with a rich, orange-brown broth that bears layers of oil floating on the surface. In the soup, whole red Scotch bonnet peppers are visible, partially submerged. There are hints of darker pieces, possibly meat or fish, scattered within the broth. The"
+    },
+    {
+      "id": "img_03058",
+      "label": "eru",
+      "prompt": "In this image, describe the African dish labeled 'eru'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03059",
+      "label": "ndole",
+      "prompt": "In this image, describe the African dish labeled 'ndole'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03060",
+      "label": "ekwang",
+      "prompt": "In this image, describe the African dish labeled 'ekwang'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03061",
+      "label": "jollof-ghana",
+      "prompt": "In this image, describe the African dish labeled 'jollof-ghana'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image displays a vibrant plate of Jollof rice, with grains richly coated in an orange-red sauce. Visible ingredients include green peas, slices of cabbage, and diced bell peppers. There are also pieces of meat mixed within the rice. The dish is garnished with a decorative tomato carved into a"
+    },
+    {
+      "id": "img_03062",
+      "label": "ekwang",
+      "prompt": "In this image, describe the African dish labeled 'ekwang'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03063",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a large pot filled with a richly colored soup that appears to be a deep reddish-brown. The texture of the liquid is thick and slightly oily, with a glossy surface. Visible in the soup are chunks of what appears to be meat, possibly beef or goat, and other possible ingredients"
+    },
+    {
+      "id": "img_03064",
+      "label": "jollof-ghana",
+      "prompt": "In this image, describe the African dish labeled 'jollof-ghana'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a plate of jollof rice, characterized by its vibrant orange-red color, a result of being cooked with tomatoes and spices. The rice is garnished with visible vegetables such as slices of green bell pepper. Served alongside the rice is a piece of fried chicken, golden and crispy in"
+    },
+    {
+      "id": "img_03065",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "This is an image of a bowl containing a richly colored red-orange soup with a shiny, oily surface, suggesting a hearty and flavorful preparation. The dish appears to feature pieces of meat, including a visibly fibrous and meaty piece with a bone, as well as another part that looks like leafy greens"
+    },
+    {
+      "id": "img_03066",
+      "label": "ndole",
+      "prompt": "In this image, describe the African dish labeled 'ndole'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03067",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "This image shows a close-up of waakye, an African dish made primarily of rice and beans. The visible ingredients include cooked rice and black-eyed peas or cowpeas, giving the dish a mixed texture. The dish has a reddish-brown color, likely from the infusion of dried millet leaves or"
+    },
+    {
+      "id": "img_03068",
+      "label": "jollof-ghana",
+      "prompt": "In this image, describe the African dish labeled 'jollof-ghana'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": ""
+    },
+    {
+      "id": "img_03069",
+      "label": "ekwang",
+      "prompt": "In this image, describe the African dish labeled 'ekwang'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03070",
+      "label": "ndole",
+      "prompt": "In this image, describe the African dish labeled 'ndole'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03071",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a vibrant dish identified as palm-nut soup. The dish features a rich, orange-hued broth with visible palm oil giving it a glossy texture. Floating atop the soup are chunks of protein, including crab with its orange shell, pieces of fish, and possibly goat meat or beef."
+    },
+    {
+      "id": "img_03072",
+      "label": "ekwang",
+      "prompt": "In this image, describe the African dish labeled 'ekwang'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03073",
+      "label": "eru",
+      "prompt": "In this image, describe the African dish labeled 'eru'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03074",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a richly colored dish with a deep reddish-orange broth that appears oily, characteristic of palm nut soup. Visible ingredients include chunks of meat, which seem tender and well-cooked, coated in the brightly hued soup. There are slices of vegetable, likely garden eggs (African eggplants),"
+    },
+    {
+      "id": "img_03075",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "This image shows a plate of waakye, presented in a white bowl with a blue outer edge. The main component is a portion of rice and beans cooked together, which has a reddish-brown color. Accompanying the waakye are other elements, including two boiled eggs, neatly placed"
+    },
+    {
+      "id": "img_03076",
+      "label": "ndole",
+      "prompt": "In this image, describe the African dish labeled 'ndole'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a dish with a vibrant green base studded with plump, cooked shrimp. The green base appears creamy and textured, likely made from finely chopped or stewed leafy greens. The shrimp are grilled or sautéed, showcasing a slightly charred, orange exterior. Visible slices of sautéed"
+    },
+    {
+      "id": "img_03077",
+      "label": "ekwang",
+      "prompt": "In this image, describe the African dish labeled 'ekwang'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The dish in the image appears to be a rich, saucy meal with tightly rolled green leaves as the prominent feature. The leaves, which look soft and cooked, are presented in a thick, orange-red sauce with a glossy texture, suggesting the use of palm oil or a tomato-based component. Other"
+    },
+    {
+      "id": "img_03078",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a bowl of waakye, a dish with a base of rice and beans cooked together, giving it a distinct reddish-brown hue. Visible in the dish are pieces of fried or breaded fish, adding texture and a golden color contrast. There appear to be some shredded elements,"
+    },
+    {
+      "id": "img_03079",
+      "label": "jollof-ghana",
+      "prompt": "In this image, describe the African dish labeled 'jollof-ghana'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a plate of jollof rice, a dish characterized by reddish-orange, well-seasoned long-grain rice. Visible ingredients include small chunks of diced carrots, suggesting added texture and color, and tender pieces of dark-colored meat, likely beef or goat. The rice appears to be coated"
+    },
+    {
+      "id": "img_03080",
+      "label": "jollof-ghana",
+      "prompt": "In this image, describe the African dish labeled 'jollof-ghana'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a serving of jollof rice on a white plate. The rice is colored orange-brown, indicating it has been cooked with a rich tomato base and seasonings. Mixed into the rice are visible pieces of vegetables, including green bell peppers and small bits of what appears to be tomato"
+    },
+    {
+      "id": "img_03081",
+      "label": "eru",
+      "prompt": "In this image, describe the African dish labeled 'eru'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03082",
+      "label": "jollof-ghana",
+      "prompt": "In this image, describe the African dish labeled 'jollof-ghana'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "This image shows a plate of vibrant orange-red rice, identified as jollof. The dish appears to include visible ingredients such as green peas, sliced onions, and small chunks of orange vegetables, likely carrots. The rice looks well-cooked and evenly mixed, suggesting it is infused with rich spices and"
+    },
+    {
+      "id": "img_03083",
+      "label": "eru",
+      "prompt": "In this image, describe the African dish labeled 'eru'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03084",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a pot filled with a vibrant reddish-orange liquid, identified as palm-nut soup. It has a rich, oily surface with visible portions of yellowish oil floating on top. The texture appears creamy, with small bubbles and patches of oil blending into the thick broth. While the specific solid"
+    },
+    {
+      "id": "img_03085",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "This image shows a bowl of palm-nut soup served in a black, clay or ceramic bowl. The dish features a rich, golden-orange colored soup, typical of palm nut preparations, with a layer of red oil visible on the surface. Floating in the soup are pieces of cooked meat, identifiable as"
+    },
+    {
+      "id": "img_03086",
+      "label": "eru",
+      "prompt": "In this image, describe the African dish labeled 'eru'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03087",
+      "label": "jollof-ghana",
+      "prompt": "In this image, describe the African dish labeled 'jollof-ghana'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a large, neatly arranged tray of jollof rice, presented in a shiny, rectangular aluminum serving dish. The dish features long-grain rice cooked to a vibrant orange-red color, indicative of a tomato-based sauce, with possible hints of spices and oil giving it a glistening"
+    },
+    {
+      "id": "img_03088",
+      "label": "eru",
+      "prompt": "In this image, describe the African dish labeled 'eru'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03089",
+      "label": "ekwang",
+      "prompt": "In this image, describe the African dish labeled 'ekwang'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03090",
+      "label": "jollof-ghana",
+      "prompt": "In this image, describe the African dish labeled 'jollof-ghana'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "This image shows a serving of Jollof rice accompanied by a vibrant and flavorful-looking sauce-covered side dish, potentially a piece of meat or fish. The Jollof rice is orange in color, with a rich, glossy texture, indicating it was cooked with spices, tomatoes, and oil. The"
+    },
+    {
+      "id": "img_03091",
+      "label": "eru",
+      "prompt": "In this image, describe the African dish labeled 'eru'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03092",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The dish in the image, labeled \"waakye,\" features a vibrant and hearty presentation. Visible ingredients include reddish-brown stewed meat or sauce with a rich texture, a green vegetable-based sauce or accompaniment, and what appears to be a fried or grilled piece of fish with golden, crispy skin"
+    },
+    {
+      "id": "img_03093",
+      "label": "jollof-ghana",
+      "prompt": "In this image, describe the African dish labeled 'jollof-ghana'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a close-up of a serving of jollof rice presented on a bright yellow plate. The dish consists of golden-orange rice grains, likely infused with tomatoes, spices, and seasonings, giving it its distinct color. Visible ingredients include pieces of cooked onions and small fragments that may be"
+    },
+    {
+      "id": "img_03094",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a bowl of richly colored palm nut soup, with its characteristic orange-red oil layer on top. Visible in the soup are chunks of meat, possibly goat or beef, and what looks like pieces of smoked fish. There is a green vegetable, likely a whole garden egg or eggplant,"
+    },
+    {
+      "id": "img_03095",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows an African meal featuring \"palm-nut-soup.\" The soup, served in an orange plastic bowl, has a rich brownish-orange color. Visible within the soup is a piece of meat, which appears to be a cooked chunk of either beef, goat, or another protein,"
+    },
+    {
+      "id": "img_03096",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a serving of waakye, a Ghanaian dish, presented on a green banana leaf. The central component is a mound of cooked rice and beans, dyed a distinctive reddish-brown color. Surrounding the waakye are various accompaniments: to the top right, there"
+    },
+    {
+      "id": "img_03097",
+      "label": "jollof-ghana",
+      "prompt": "In this image, describe the African dish labeled 'jollof-ghana'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a serving of Jollof rice on a white rectangular plate. The rice appears to be cooked in a rich tomato-based sauce, giving it a reddish hue. Visible ingredients include small chunks of carrots, green peas, and pieces of meat, likely beef or chicken, that are mixed into"
+    },
+    {
+      "id": "img_03098",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows palm-nut soup in a metal pot. The soup has a rich, brownish-orange color with a slightly oily appearance on the surface. Visible ingredients include whole red tomatoes floating at the top, which appear lightly cooked but intact. The texture of the soup suggests a hearty and thick consistency"
+    },
+    {
+      "id": "img_03099",
+      "label": "eru",
+      "prompt": "In this image, describe the African dish labeled 'eru'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03100",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a serving of waakye, a popular African dish, presented on what appears to be a natural green leaf, likely used as a plate or wrapper. The dish includes rice and beans (waakye) that appear dark and richly cooked, likely with spices. There is a serving"
+    },
+    {
+      "id": "img_03101",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "This image shows a plate of food featuring the African dish identified as waakye. The plate includes a serving of what appears to be cooked rice and beans, which is the base of the dish, though the color of the dish makes it difficult to clearly identify the beans. The waakye is"
+    },
+    {
+      "id": "img_03102",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image depicts a plate containing the dish labeled as \"waakye.\" Visible components include a mound of waakye, which is rice cooked with beans/black-eyed peas and infused with sorghum leaves that give it a reddish-brown color. To the side, there is a serving of"
+    },
+    {
+      "id": "img_03103",
+      "label": "ekwang",
+      "prompt": "In this image, describe the African dish labeled 'ekwang'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03104",
+      "label": "ekwang",
+      "prompt": "In this image, describe the African dish labeled 'ekwang'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03105",
+      "label": "jollof-ghana",
+      "prompt": "In this image, describe the African dish labeled 'jollof-ghana'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a plate of jollof rice served with grilled or roasted chicken. The jollof rice is reddish-orange in color, reflecting its tomato-based preparation, and appears fluffy with visible grains of rice. Accompanying the rice is a piece of dark-baked chicken with a reddish hue"
+    },
+    {
+      "id": "img_03106",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a serving of waakye, a dish made primarily from rice and beans. The rice has a reddish-brown hue, likely from the addition of natural coloring agents during its preparation. Visible in the dish are whole beans, dark in color, which are evenly distributed throughout the rice."
+    },
+    {
+      "id": "img_03107",
+      "label": "jollof-ghana",
+      "prompt": "In this image, describe the African dish labeled 'jollof-ghana'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a large metal tray filled with a serving of jollof rice, a vibrant orange-colored dish made from rice cooked with tomatoes, onions, and spices. Scattered across the rice are visible chunks of meat, including pieces of beef and chicken, which appear cooked and slightly browned. The"
+    },
+    {
+      "id": "img_03108",
+      "label": "ekwang",
+      "prompt": "In this image, describe the African dish labeled 'ekwang'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "This image shows a steaming African dish that features a richly colored, thick sauce with a reddish-brown hue. Inside the sauce, there are rolled green leaves, likely cocoyam leaves or similar, which appear glossy and well-cooked. The dish also includes chunks of meat, which have a dark"
+    },
+    {
+      "id": "img_03109",
+      "label": "ndole",
+      "prompt": "In this image, describe the African dish labeled 'ndole'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a pot containing \"ndole,\" a creamy dish with a mixed texture. Visible ingredients include green leafy vegetables, which are likely bitter leaves (a signature component of ndole), and a creamy base that appears to be made from ground nuts or seeds, giving the dish a rich consistency."
+    },
+    {
+      "id": "img_03110",
+      "label": "eru",
+      "prompt": "In this image, describe the African dish labeled 'eru'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a plate of eru, a richly textured dish with a dark green leafy appearance, glistening in a flavorful sauce. The ingredients visible include finely chopped greens, possibly herbs or vegetables, cooked until tender and coated in an oily, orange-hued broth. Large pieces of cooked meat,"
+    },
+    {
+      "id": "img_03111",
+      "label": "eru",
+      "prompt": "In this image, describe the African dish labeled 'eru'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03112",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a serving of the dish waakye, which is the central focus, consisting of rice and beans cooked together. Surrounding the waakye are various accompaniments. On the left, there is a piece of fried fish with a golden-brown crust. Below it, there"
+    },
+    {
+      "id": "img_03113",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a pot of palm-nut soup simmering on a stovetop. The soup has a rich, reddish-orange color with an oily sheen, characteristic of palm fruit extract. Visible in the soup are chunks of meat, which could be goat meat, fish, or other protein, as well"
+    },
+    {
+      "id": "img_03114",
+      "label": "ekwang",
+      "prompt": "In this image, describe the African dish labeled 'ekwang'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03115",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a pot of palm nut soup, featuring a rich and vibrant orange and reddish-brown broth with visible patches of oil on the surface, indicating its hearty and flavorful nature. Within the soup, chunks of meat or fish are visible, adding texture and protein to the dish. A few dark"
+    },
+    {
+      "id": "img_03116",
+      "label": "ndole",
+      "prompt": "In this image, describe the African dish labeled 'ndole'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03117",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a plate of waakye, a Ghanaian dish. The dish features rice and beans that have a reddish-brown hue, likely from cooking with millet leaves. Accompanying the waakye are several distinct components: a dollop of deep-red, oily tomato-based stew,"
+    },
+    {
+      "id": "img_03118",
+      "label": "eru",
+      "prompt": "In this image, describe the African dish labeled 'eru'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03119",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a rich, orange-hued soup with a visibly oily surface, indicative of a hearty broth. Within the soup, large chunks of dark eggplant are prominent, along with pieces of meat or fish that have a firm texture. The broth appears thick, with occasional bubbles at the surface,"
+    },
+    {
+      "id": "img_03120",
+      "label": "jollof-ghana",
+      "prompt": "In this image, describe the African dish labeled 'jollof-ghana'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a serving of Ghanaian jollof rice in a black rectangular container. The dish consists of long-grain rice cooked in a reddish-orange sauce with visible green peppers and some darkened vegetable or spice pieces scattered throughout. On one side is a generously spiced and grilled piece of meat"
+    },
+    {
+      "id": "img_03121",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image displays a bowl of palm nut soup. The soup appears to have a rich, reddish-orange color with an oily surface, indicative of the palm nut base. Within the soup, there are visible ingredients, including a piece of fish with its skin and bones intact, and a chunk of meat that"
+    },
+    {
+      "id": "img_03122",
+      "label": "ndole",
+      "prompt": "In this image, describe the African dish labeled 'ndole'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03123",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a rich, thick, orange-colored African soup with oily streaks of red on its surface indicating a hearty, high-fat content common in dishes made with palm nut extract. Visible ingredients include chunks of meat and possibly fish, which may appear darkened and textured, as well as some round"
+    },
+    {
+      "id": "img_03124",
+      "label": "jollof-ghana",
+      "prompt": "In this image, describe the African dish labeled 'jollof-ghana'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a dish consisting of vibrant orange-red colored rice, served alongside well-seasoned and grilled chicken pieces. The rice appears to be cooked with a tomato-based sauce, giving it its distinct color, and mixed with visible vegetables such as diced carrots and sliced green beans. The chicken pieces are browned"
+    },
+    {
+      "id": "img_03125",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a pot of palm-nut soup simmering on a stovetop. The soup has a rich orange-brown color with visible patches of oil floating on the surface, which is characteristic of palm oil-based dishes. The surface also reveals a slightly textured appearance, possibly indicating the incorporation of blended"
+    },
+    {
+      "id": "img_03126",
+      "label": "eru",
+      "prompt": "In this image, describe the African dish labeled 'eru'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03127",
+      "label": "ndole",
+      "prompt": "In this image, describe the African dish labeled 'ndole'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03128",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a pot of palm-nut soup with a rich reddish-brown broth. Visible ingredients include chunks of meat immersed in the soup. A metallic serving spoon with a golden hue is scooping the soup, indicating it is being served hot and fresh. The soup appears oily on the surface,"
+    },
+    {
+      "id": "img_03129",
+      "label": "ekwang",
+      "prompt": "In this image, describe the African dish labeled 'ekwang'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03130",
+      "label": "jollof-ghana",
+      "prompt": "In this image, describe the African dish labeled 'jollof-ghana'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "This image shows a pan of jollof rice. The dish has a rich orange-red hue, indicating it is prepared with a tomato-based sauce. Visible ingredients include cooked rice, small pieces of carrots, green peas, corn, green beans, and bits of red pepper, along with a bay leaf"
+    },
+    {
+      "id": "img_03131",
+      "label": "eru",
+      "prompt": "In this image, describe the African dish labeled 'eru'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03132",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a colorful plate of the African dish \"waakye\" served on a fresh green banana leaf. The centerpiece is the waakye itself, a combination of rice and beans cooked together, giving it a reddish-brown appearance. Accompanying the waakye are several side dishes"
+    },
+    {
+      "id": "img_03133",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a plate of waakye, a Ghanaian dish made from cooked rice and beans. The rice and beans are subtly tinted with a reddish hue, likely from cooking with dried millet leaves or similar spices, and dotted with visible black-eyed peas. Mixed into the waakye are small"
+    },
+    {
+      "id": "img_03134",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "This image shows a pot of palm-nut soup with its rich, orange-red and slightly oily surface, indicative of the palm fruit base. Visible ingredients include pieces of green vegetables that appear to be garden eggs (African eggplants), whole green peppers, and slender okra pods. There are also large"
+    },
+    {
+      "id": "img_03135",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "This image shows a plate of waakye, a dish with a vibrant and hearty presentation. The centerpiece is the waakye, which is a mix of rice and beans with a reddish-purple hue, likely due to the use of leaf sheaths or sorghum leaves during preparation. Surrounding"
+    },
+    {
+      "id": "img_03136",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a richly colored, thick soup with a deep reddish-brown hue. Visible ingredients include fish (whole and pieces, such as a fish head and mackerel-like portions), crab, and what appears to be chunks of yellowish-orange vegetables or possibly plantains. The soup has an"
+    },
+    {
+      "id": "img_03137",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a bowl of palm nut soup presented in a white, wide-rimmed dish. The soup has a rich, orange-red hue, indicating a vibrant and likely well-spiced broth. Visible in the dish are chunks of assorted meats, including what appears to be pieces of fish, and"
+    },
+    {
+      "id": "img_03138",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a vibrant dish of waakye, consisting of rice mixed with soft, cooked beans (likely black-eyed peas or red beans). The rice appears reddish-brown, suggesting it has been cooked with a distinctive ingredient such as millet leaves or spices to achieve its color. The beans are evenly"
+    },
+    {
+      "id": "img_03139",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a pot of palm nut soup with a rich, reddish-orange color, indicating a hearty and oily base. Visible ingredients include chunks of meat or fish, small pieces of unidentifiable ingredients possibly vegetables or other protein, and whole red peppers floating on the surface, likely scotch bonnet peppers"
+    },
+    {
+      "id": "img_03140",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a richly-colored soup with a vibrant orange-red hue, indicative of palm oil as a base. Visible ingredients in the dish include chunks of assorted proteins, such as fish and possibly pieces of meat or bone, with some sections displaying darker textures. There's also evidence of other ingredients like bits of"
+    },
+    {
+      "id": "img_03141",
+      "label": "jollof-ghana",
+      "prompt": "In this image, describe the African dish labeled 'jollof-ghana'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a vibrant serving of jollof rice placed in a white, round dish. The rice is a reddish-orange color, indicating the presence of tomato and spices. Visible ingredients include chunks of tender-looking cooked meat, likely beef or goat, scattered throughout the dish. Orange slices of cooked carrots"
+    },
+    {
+      "id": "img_03142",
+      "label": "jollof-ghana",
+      "prompt": "In this image, describe the African dish labeled 'jollof-ghana'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a close-up of a serving of jollof rice. The dish consists of brightly-colored reddish-orange rice, which appears to have been cooked in a rich tomato-based sauce. Visible ingredients include small pieces of green vegetables, chunks of meat, likely goat or beef, and what could be"
+    },
+    {
+      "id": "img_03143",
+      "label": "ekwang",
+      "prompt": "In this image, describe the African dish labeled 'ekwang'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03144",
+      "label": "jollof-ghana",
+      "prompt": "In this image, describe the African dish labeled 'jollof-ghana'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a close-up of a pot filled with jollof rice, a vibrant orange-red dish made from long-grain rice cooked in a tomato-based sauce. Visible ingredients include finely chopped green bell peppers and bits of cooked onions, contributing color and texture. The rice appears well-coated in the"
+    },
+    {
+      "id": "img_03145",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a pot of palm nut soup with a richly colored, thick orange-red broth. The surface of the soup displays a vibrant sheen of oil, characteristic of palm oil's presence. Visible ingredients include chunks of meat or fish, which are slightly submerged in the soup, as well as small bubble"
+    },
+    {
+      "id": "img_03146",
+      "label": "eru",
+      "prompt": "In this image, describe the African dish labeled 'eru'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03147",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image displays a pot containing a vibrant, creamy soup with a rich orange hue, characteristic of palm nut soup. Visible ingredients include round pieces that appear to be meat or fish, and floating oil pools creating shiny red streaks on the surface, possibly from palm oil or seasoning. The texture of the"
+    },
+    {
+      "id": "img_03148",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The dish in the image consists of waakye, which is a rice and beans combination tinted with a reddish-purple hue, likely from the traditional use of dried millet leaves. It is served with several accompaniments. Visible are bright yellow spaghetti, a fried or boiled egg with a crispy, slightly"
+    },
+    {
+      "id": "img_03149",
+      "label": "eru",
+      "prompt": "In this image, describe the African dish labeled 'eru'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "This image shows a dish with a rich, dark-green, leafy mixture cooked in oil or broth. The texture is thick and slightly oily, with visible chunks of yellow or orange-toned elements, likely representing proteins such as beef, fish, or crayfish. The greens appear finely chopped and well-c"
+    },
+    {
+      "id": "img_03150",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a pot of vibrant, rich palm nut soup with a creamy orange-red base. Floating in the soup are visible ingredients, including chunks of meat, likely goat or beef, and whole crab claws. There are also other protein elements such as what appears to be snails or fish, enhancing"
+    },
+    {
+      "id": "img_03151",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a vibrant dish with a rich, orange-red broth. Floating in the broth are various ingredients, including chunks of meat, what appears to be tripe or offal, and whole red chili peppers. At the center of the dish is a mound of smooth, white food, possibly f"
+    },
+    {
+      "id": "img_03152",
+      "label": "eru",
+      "prompt": "In this image, describe the African dish labeled 'eru'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a dish with a dark green, leafy vegetable base, characteristic of eru. The dish appears to be cooked in oil or a sauce, giving it a slightly glossy finish, and includes visible pieces of meat or fish scattered throughout. A stick-like object, possibly a piece of seasoning or herb"
+    },
+    {
+      "id": "img_03153",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a serving of waakye, a visually rich and hearty dish that features a mixture of ingredients with vibrant colors and textures. At the center, the dish has a red-brown sauce covering pieces of what appears to be meat, giving it a glossy, appetizing appearance. To one"
+    },
+    {
+      "id": "img_03154",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a richly colored palm nut soup served in a black bowl. The soup has a bright orange-red hue indicative of palm nut oil, with a thick, hearty consistency. Visible ingredients include chunks of cooked meat, which appear to be a mix of goat meat and possibly fish. Resting atop"
+    },
+    {
+      "id": "img_03155",
+      "label": "jollof-ghana",
+      "prompt": "In this image, describe the African dish labeled 'jollof-ghana'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "This image showcases a vibrant plate of jollof rice served in a rustic black dish. The rice is cooked to a deep orange-red hue, indicating a rich tomato base, and is mixed with visible green peas scattered throughout. There are pieces of caramelized onions adding texture and flavor. \n\nTo the"
+    },
+    {
+      "id": "img_03156",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The dish labeled \"palm-nut-soup\" in the image features a vibrant, rich orange-brown broth with visible oil pooling on the surface. Key visible ingredients include plantain or yam chunks, darkened pieces of smoked fish, and what appears to be meat submerged in the soup. There"
+    },
+    {
+      "id": "img_03157",
+      "label": "ndole",
+      "prompt": "In this image, describe the African dish labeled 'ndole'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03158",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a traditional African dish called waakye, served on a green leafy base, possibly a banana leaf. The dish primarily consists of rice and beans cooked together, giving it a reddish-brown color. Visible ingredients include whole beans scattered throughout the rice. To the side, there is a"
+    },
+    {
+      "id": "img_03159",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows waakye, a Ghanaian dish made primarily of rice and beans. The rice appears fluffy and evenly mixed with beans, creating a reddish-brown color, likely from the addition of dried millet leaves or waakye leaves during cooking. Some dark, leafy fragments are also visible,"
+    },
+    {
+      "id": "img_03160",
+      "label": "jollof-ghana",
+      "prompt": "In this image, describe the African dish labeled 'jollof-ghana'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "This image shows a dish of jollof rice served in a white, round serving bowl. The rice is richly colored with a reddish-orange hue, indicating it has been cooked with tomato-based sauce and spices. Scattered throughout the rice are chunks of meat, dark in color, which appear to be"
+    },
+    {
+      "id": "img_03161",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a richly colored African dish, palm-nut soup, served in a black bowl. The soup has a reddish-orange broth, indicating a flavorful and well-seasoned base. Visible ingredients include a variety of meats, possibly goat or beef, cut into chunks, as well as whole pieces of"
+    },
+    {
+      "id": "img_03162",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a serving of waakye, a Ghanaian dish consisting of rice and beans cooked together, giving it a distinct reddish hue. It is accompanied by several visible elements:  \n\n- A portion of fried fish with a golden-brown crust sits to the side, offering a crispy texture."
+    },
+    {
+      "id": "img_03163",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a serving of palm nut soup presented in a deep bowl. The dish contains visible chunks of meat coated in a reddish-brown soup, suggesting a rich and hearty broth. To the side, there is a smooth, white mound of fufu, which appears soft and dough-like. The"
+    },
+    {
+      "id": "img_03164",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "This image shows a pot of palm-nut soup, rich in a reddish-orange oily broth. Visible ingredients include pieces of meat, such as bones with flesh attached, and a variety of vegetables and spices. Whole eggplants, slightly elongated and dark purple in color, are prominently floating in the soup,"
+    },
+    {
+      "id": "img_03165",
+      "label": "jollof-ghana",
+      "prompt": "In this image, describe the African dish labeled 'jollof-ghana'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a dish of vibrant orange rice, likely cooked in a tomato-based stew, with a sprinkling of bright green peas mixed throughout. The grains of rice are well-cooked and fluffy, with a slightly oily sheen suggesting the presence of oil or seasoning. The dish is contained in a white"
+    },
+    {
+      "id": "img_03166",
+      "label": "ekwang",
+      "prompt": "In this image, describe the African dish labeled 'ekwang'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a close-up of a richly colored dish in a thick, stewed reddish-orange sauce. Visible within the sauce are rolls or wraps of green leafy material, which appear shiny and coated, giving a slightly textured look. Alongside the green rolls, there are yellowish, creamy pieces of"
+    },
+    {
+      "id": "img_03167",
+      "label": "ndole",
+      "prompt": "In this image, describe the African dish labeled 'ndole'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "This image shows a dish featuring a thick green paste-like base, which appears to consist of finely cooked greens. Embedded within the dish are vibrant shrimp that have a slight orange-red hue, possibly from seasoning or cooking sauce. The shrimp are garnished with translucent, sautéed onions that are scattered across the"
+    },
+    {
+      "id": "img_03168",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a dish of waakye, consisting of rice mixed with beans or black-eyed peas, with a reddish-brown color. The color likely comes from the use of millet leaves or sorghum leaves used in its preparation. The rice and beans are intermingled, appearing moist but"
+    },
+    {
+      "id": "img_03169",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows waakye, a dish characterized by its reddish-brown color and a mixture of cooked rice and beans. The visible beans are small and look reddish or darker in hue, blending with the rice. The grains of rice appear soft and well-cooked, and the dish has a slightly"
+    },
+    {
+      "id": "img_03170",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a pot of palm nut soup, characterized by its rich, reddish-brown color with visible patches of yellow oil on the surface, which is a signature feature of the dish. The soup appears thick and hearty, with no distinct solid ingredients clearly visible in this particular view, but it might"
+    },
+    {
+      "id": "img_03171",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a plate of waakye, a vibrant and hearty dish presented on what appears to be green leaves. The dish includes rice and beans that are reddish-brown in color. Accompanying the waakye are spaghetti, a slice of fried fish, a boiled egg, and two"
+    },
+    {
+      "id": "img_03172",
+      "label": "ekwang",
+      "prompt": "In this image, describe the African dish labeled 'ekwang'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03173",
+      "label": "ndole",
+      "prompt": "In this image, describe the African dish labeled 'ndole'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03174",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a pot of rich, orange-red palm nut soup with a slightly oily surface, hinting at its creamy and robust texture. Visible ingredients include whole green peppers, likely Scotch bonnets, some pieces of okra, and chunks of either meat or fish partially submerged in the soup. There"
+    },
+    {
+      "id": "img_03175",
+      "label": "ndole",
+      "prompt": "In this image, describe the African dish labeled 'ndole'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03176",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image depicts a rich, vibrant soup with an orange-reddish hue and a slightly oily surface, characteristic of palm-nut-based dishes. Visible ingredients include chunks of meat, likely goat or beef, and large dark brown or black shells that appear to be snails. The texture of the soup"
+    },
+    {
+      "id": "img_03177",
+      "label": "ndole",
+      "prompt": "In this image, describe the African dish labeled 'ndole'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03178",
+      "label": "jollof-ghana",
+      "prompt": "In this image, describe the African dish labeled 'jollof-ghana'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image highlights a plate of Jollof rice served in a rich, vibrant orange hue, signifying its preparation with tomato and spice-based seasoning. The dish features visible chunks of vegetables, including cabbage, green bell peppers, and orange bell peppers, adding color and texture. There are also hints of"
+    },
+    {
+      "id": "img_03179",
+      "label": "eru",
+      "prompt": "In this image, describe the African dish labeled 'eru'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03180",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a bowl of palm-nut soup, a rich, orange-toned soup with a slightly oily surface, indicating the presence of palm nut extract. Visible ingredients include a large round ball of what appears to be fufu (a starchy staple made from yam, cassava, or plant"
+    },
+    {
+      "id": "img_03181",
+      "label": "ekwang",
+      "prompt": "In this image, describe the African dish labeled 'ekwang'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03182",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a rich and vibrant orange to golden-colored soup with an oily surface texture, likely signifying the presence of the palm nut base. Visible ingredients include chunks of meat or fish (likely protein-based components) and whole palm nuts floating on the surface. The soup appears to be served directly in"
+    },
+    {
+      "id": "img_03183",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image depicts a bowl of richly colored palm-nut soup. Visible ingredients include pieces of crab, identifiable by its yellow shell and claws, dark chunks of meat or fish, and vegetables such as slices of plantain, which appear golden and slightly softened. The soup has a glossy, red-orange hue"
+    },
+    {
+      "id": "img_03184",
+      "label": "eru",
+      "prompt": "In this image, describe the African dish labeled 'eru'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03185",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a pot filled with a brightly colored, rich, and oily red-orange soup labeled \"palm-nut-soup.\" Visible ingredients include chunks of assorted meats, likely beef or goat, pieces that resemble fish, and bone fragments embedded in the soup. The soup appears rich and hearty,"
+    },
+    {
+      "id": "img_03186",
+      "label": "jollof-ghana",
+      "prompt": "In this image, describe the African dish labeled 'jollof-ghana'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a plate of jollof rice, a vibrant orange-red rice dish. Visible ingredients in the rice include small pieces of orange carrots, green bell pepper slices, and possibly other finely chopped vegetables. The rice is accompanied by well-cooked, golden-brown grilled chicken pieces arranged around the"
+    },
+    {
+      "id": "img_03187",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image displays a plate of the African dish 'waakye', served with a variety of accompaniments. The waakye itself, made of rice and beans, has a distinctive reddish-brown color. Surrounding the waakye are generous portions of various items:  \n- A rich"
+    },
+    {
+      "id": "img_03188",
+      "label": "waakye",
+      "prompt": "In this image, describe the African dish labeled 'waakye'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a serving of waakye, a richly colored rice and bean dish. The rice has a reddish-brown hue, likely from the dried sorghum leaves traditionally used in its preparation. Visible throughout the dish are black-eyed peas or beans, mixed evenly with the rice. The wa"
+    },
+    {
+      "id": "img_03189",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a pot of palm nut soup with a rich, golden-brown appearance. Visible ingredients include chunks of meat, a whole crab, a whole okra pod, and pieces of red pepper. The soup has a thick and creamy texture, indicative of being made with palm-nut extract."
+    },
+    {
+      "id": "img_03190",
+      "label": "ndole",
+      "prompt": "In this image, describe the African dish labeled 'ndole'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": null
+    },
+    {
+      "id": "img_03191",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The dish labeled \"palm-nut-soup\" is served in a black bowl and has a rich reddish-orange broth with a slightly oily surface. Visible in the soup are pieces of meat, possibly goat or beef, as well as whole green okra pods. The meat appears to be stewed"
+    },
+    {
+      "id": "img_03192",
+      "label": "palm-nut-soup",
+      "prompt": "In this image, describe the African dish labeled 'palm-nut-soup'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a pot of vibrant, golden palm nut soup with a slightly oily, rich surface. Visible ingredients include chunks of crab claws, whole fish pieces, and a few pieces of reddish tomatoes, possibly whole or halved. A wooden spoon is partially submerged in the soup, stirring it gently."
+    },
+    {
+      "id": "img_03193",
+      "label": "eru",
+      "prompt": "In this image, describe the African dish labeled 'eru'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a pot of a richly textured and dark green dish, with a thick, leafy appearance that suggests it's made with finely chopped greens. The greens are mixed with a broth that looks oily, giving it a glistening surface. Visible in the dish are small chunks of meat, possibly beef"
+    },
+    {
+      "id": "img_03194",
+      "label": "jollof-ghana",
+      "prompt": "In this image, describe the African dish labeled 'jollof-ghana'. Mention the visible ingredients, how it's served, and any accompaniments. If the dish is part of a meal or has a certain presentation style, describe it. Do not explain the label; stay focused on what is visible.",
+      "caption": "The image shows a serving of jollof rice in a rectangular, metallic container. The rice has a vibrant, reddish-orange color, indicating it is seasoned and cooked in a tomato-based sauce. Visible ingredients include long-grain rice, green peas, and small bits of vegetables, possibly diced peppers or"
+    }
+  ]
+}
