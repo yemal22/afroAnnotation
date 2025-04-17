@@ -135,7 +135,7 @@ def merge_caption_parts(base_path, output_file, delete_parts=True, save_csv=Fals
         logger.info(f"🧹 Deleted {len(part_files)} part files.")
         
 # --------------------------- MAIN GENERATION FUNCTION ---------------------------
-def generate_captions(dataset_path, output_path, category="fashion", max_samples=None, save_every=20):
+def generate_captions(dataset_path, output_path, category="fashion", max_samples=None, save_every=500):
     """
     Generates image captions using GPT-4o for a HuggingFace dataset.
     The dataset should contain images and labels.
@@ -222,13 +222,13 @@ def generate_captions(dataset_path, output_path, category="fashion", max_samples
 # --------------------------- RUN ---------------------------
 if __name__ == "__main__":
 
-    # # Fashion dataset
-    # generate_captions(
-    #     dataset_path="data/processed/african-fashion",
-    #     output_path="data/captions/african-fashion-full",
-    #     category="fashion",
-    #     max_samples=None
-    # )
+    # Fashion dataset
+    generate_captions(
+        dataset_path="data/processed/african-fashion",
+        output_path="data/captions/african-fashion-full",
+        category="fashion",
+        max_samples=None
+    )
 
     # Food dataset
     generate_captions(
