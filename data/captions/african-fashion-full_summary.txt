@@ -1,0 +1,12 @@
+📊 Label summary:
+wax-pattern: 5001 samples
+Idgo: 3159 samples
+Zulu: 2107 samples
+Xhosa-South Africa: 1434 samples
+Tswana-Shweshwe: 1306 samples
+Adire: 1038 samples
+Idoma: 915 samples
+Tiv: 715 samples
+Igbo: 691 samples
+Igala: 566 samples
+Idama: 214 samples

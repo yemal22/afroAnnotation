@@ -24,15 +24,6 @@ logger.add(
     diagnose=False
 )
 logger.add(
-    "logs/generate_caption_error.log",
-    level="ERROR",
-    rotation="10 MB",
-    encoding="utf-8",
-    enqueue=True,
-    backtrace=True,
-    diagnose=False
-)
-logger.add(
     "logs/generate_caption.log",
     level="WARNING",
     rotation="10 MB",
@@ -151,6 +142,7 @@ def generate_captions(dataset_path, output_path, category="fashion", max_samples
     """
     logger.info(f"📦 Loading dataset from: {dataset_path}")
     dataset = load_from_disk(dataset_path)
+    original_total = len(dataset)
     logger.info(f"✅ Dataset loaded successfully.")
 
     if max_samples is not None:
@@ -168,7 +160,9 @@ def generate_captions(dataset_path, output_path, category="fashion", max_samples
     part_index = start_index // save_every
     prompt_base = None
 
-    for i, example in enumerate(tqdm(dataset, desc=f"{category.title()} Captions", initial=start_index), start=start_index):
+    for i, example in enumerate(tqdm(dataset, desc=f"{category.title()} Captions", initial=start_index, total=original_total), start=start_index):
+        # if i < start_index:
+        #     continue
         id = example['id']
         image = example['image']
         label = example['label']
@@ -223,12 +217,12 @@ def generate_captions(dataset_path, output_path, category="fashion", max_samples
 if __name__ == "__main__":
 
     # Fashion dataset
-    generate_captions(
-        dataset_path="data/processed/african-fashion",
-        output_path="data/captions/african-fashion-full",
-        category="fashion",
-        max_samples=None
-    )
+    #generate_captions(
+    #    dataset_path="data/processed/african-fashion",
+    #    output_path="data/captions/african-fashion-full",
+    #    category="fashion",
+    #    max_samples=None
+    #)
 
     # Food dataset
     generate_captions(

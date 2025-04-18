@@ -1,0 +1,4 @@
+2025-04-18 05:02:34.513 | WARNING  | __main__:generate_captions:162 - ⏩ Checkpoint detected! Resuming from index 8000
+2025-04-18 06:28:55.027 | WARNING  | __main__:generate_captions:153 - ⏩ Checkpoint detected! Resuming from index 9000
+2025-04-18 06:39:38.174 | WARNING  | __main__:generate_captions:154 - ⏩ Checkpoint detected! Resuming from index 9000
+2025-04-18 17:06:09.173 | WARNING  | __main__:generate_captions:154 - ⏩ Checkpoint detected! Resuming from index 2000

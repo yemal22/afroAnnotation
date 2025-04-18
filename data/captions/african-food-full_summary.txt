@@ -1,0 +1,17 @@
+📊 Label summary:
+palm-nut-soup: 391 samples
+jollof-ghana: 347 samples
+waakye: 306 samples
+jollof rice: 265 samples
+egusi soup: 199 samples
+ogbono soup: 181 samples
+ewedu soup: 169 samples
+okra soup: 146 samples
+akara: 137 samples
+moimoi: 127 samples
+masa: 123 samples
+edikaikong soup: 98 samples
+ekwang: 98 samples
+banga soup: 91 samples
+eru: 56 samples
+ndole: 37 samples
