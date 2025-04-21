@@ -12,11 +12,29 @@ The final dataset's features are:
 
 from datasets import load_from_disk, Dataset, Features, Value, ClassLabel, Image as HfImage
 import pandas as pd
-from PIL import Image
+from PIL import Image, UnidentifiedImageError
 import os
 import json
 from typing import List, Dict
 from tqdm import tqdm
+from io import BytesIO
+
+def img_to_bytes_dict(pil_image: Image) -> Dict:
+    """
+    Convert a PIL image to a dictionary of bytes.
+    
+    Args:
+        pil_image (Image): PIL image object.
+        
+    Returns:
+        Dict: Dictionary containing the image bytes.
+    """
+    if pil_image.mode != 'RGB':
+        pil_image = pil_image.convert('RGB')
+    buffer = BytesIO()
+    pil_image.save(buffer, format='JPEG')
+    return {"bytes": buffer.getvalue(), "path": None}
+
 
 def load_caption_file(caption_file: str) -> Dict[str, List[Dict]]:
     """
@@ -84,8 +102,24 @@ def prepare_hf_dataset(
                 "caption": caption
             })
     
+    # Check if the dataset is empty
+    if not new_dataset:
+        raise ValueError("The dataset is empty. Please check the input files.")
+    print(f"[INFO] ✅")
+    
+    # Check images
+    for item in tqdm(new_dataset, desc="🖼️ Checking images"):
+        try:
+            item['image'] = img_to_bytes_dict(item['image'])
+        except Exception as e:
+            print(f"[ERROR] Failed to process image: {item['image']}")
+            print(f"[ERROR] Exception: {e}")
+            continue
+    
     # Convert to Hugging Face Dataset
     hf_dataset = Dataset.from_list(new_dataset, features=features)
+    
+    print(f"[INFO] 📦 Dataset prepared with {len(hf_dataset)} samples.")
     
     # Save the prepared dataset
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
@@ -100,13 +134,13 @@ if __name__ == '__main__':
     # For fashion dataset
     prepare_hf_dataset(
         dataset_path="data/processed/african-fashion",
-        caption_file="data/captions/african-fashion-04.json",
-        output_path="data/processed/african-fashion-hf"
+        caption_file="data/captions/african-fashion-full.json",
+        output_path="data/processed/african-fashion-full"
     )
 
     # For food dataset
     prepare_hf_dataset(
         dataset_path="data/processed/african-food",
-        caption_file="data/captions/african-food-04.json",
-        output_path="data/processed/african-food-hf"
+        caption_file="data/captions/african-food-full.json",
+        output_path="data/processed/african-food-full"
     )
