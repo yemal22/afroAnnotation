@@ -1,10 +1,6 @@
 # 🌍 AfroVision: Captioning Images with African Soul
 
-[![Made in Africa](https://img.shields.io/badge/Made%20in-Africa-darkgreen?style=flat-square)](https://github.com/yemal22/afroAnnotation)  
-[![Dataset](https://img.shields.io/badge/Huggingface-African--Food-orange?logo=huggingface&style=flat-square)](https://huggingface.co/datasets/yemalin/african-food)  
-![LoRA Fine-tuned](https://img.shields.io/badge/Model-LoRA%20fine--tuned-lightblue?style=flat-square&logo=openai)  
-[![Streamlit](https://img.shields.io/badge/Streamlit-Live%20Demo-red?logo=streamlit&style=flat-square)](https://your-app-link.streamlit.app)  
-![Tests](https://img.shields.io/badge/tests-passing-brightgreen?style=flat-square&logo=pytest)
+[![Made in Africa](https://img.shields.io/badge/Made%20in-Africa-darkgreen?style=flat-square)](https://github.com/yemal22/afroAnnotation)  [![Dataset](https://img.shields.io/badge/Huggingface-African--Food-orange?logo=huggingface&style=flat-square)](https://huggingface.co/datasets/yemalin/african-food)  ![LoRA Fine-tuned](https://img.shields.io/badge/Model-LoRA%20fine--tuned-lightblue?style=flat-square&logo=openai)  [![Streamlit](https://img.shields.io/badge/Streamlit-Live%20Demo-red?logo=streamlit&style=flat-square)](https://your-app-link.streamlit.app)  ![Tests](https://img.shields.io/badge/tests-passing-brightgreen?style=flat-square&logo=pytest)
 
 AfroVision is a powerful and culturally-aware image captioning system designed to generate **natural language descriptions** for African-themed images, especially in the domains of:
 
