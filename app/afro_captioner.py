@@ -56,7 +56,7 @@ def generate_caption(input_image, model_type="fashion"):
 
     # Generate caption
     inputs = processor(image, return_tensors="pt")
-    out = model.generate(**inputs, max_new_tokens=75)
+    out = model.generate(**inputs, max_new_tokens=100)
     caption = processor.decode(out[0], skip_special_tokens=True)
 
     return caption
