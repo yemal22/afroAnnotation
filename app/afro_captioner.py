@@ -1,37 +1,29 @@
-from typing import Literal
 from PIL import Image
-import io
-import os
 import torch
-import requests
-
 from transformers import BlipProcessor, BlipForConditionalGeneration
+import requests
+import os
+from io import BytesIO
+from starlette.datastructures import UploadFile
 
-# Paths to fine-tuned model directories
 FASHION_MODEL_PATH = "models/blip-afro-fashion-v1.0.0"
 FOOD_MODEL_PATH = "models/blip-afro-food-v1.0.0"
 
-# Load models and processors
 fashion_model = BlipForConditionalGeneration.from_pretrained(FASHION_MODEL_PATH)
 food_model = BlipForConditionalGeneration.from_pretrained(FOOD_MODEL_PATH)
 fashion_processor = BlipProcessor.from_pretrained(FASHION_MODEL_PATH)
 food_processor = BlipProcessor.from_pretrained(FOOD_MODEL_PATH)
 
-# Use GPU if available
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-fashion_model.to(device)
-food_model.to(device)
-
-def generate_caption(image_input, model_type: Literal["fashion", "food"] = "fashion") -> str:
+def generate_caption(input_image, model_type="fashion"):
     """
-    Generate a caption for an image input.
-
+    Generate a caption for an image input using either the fashion or food model.
+    
     Args:
-        image_input (str | bytes): File path, URL or raw bytes.
-        model_type (str): Either 'fashion' or 'food' to select the model.
-
+        input_image (str | UploadFile | bytes): URL, local path, UploadFile or raw bytes.
+        model_type (str): Either "fashion" or "food".
+    
     Returns:
-        str: The generated caption.
+        str: Generated caption.
     """
     if model_type == "fashion":
         processor = fashion_processor
@@ -42,24 +34,29 @@ def generate_caption(image_input, model_type: Literal["fashion", "food"] = "fash
     else:
         raise ValueError("model_type must be 'fashion' or 'food'")
 
-    # Load image from path, URL or bytes
-    if isinstance(image_input, str):
-        if image_input.startswith("http"):
-            response = requests.get(image_input)
-            image = Image.open(io.BytesIO(response.content)).convert("RGB")
-        elif os.path.isfile(image_input):
-            image = Image.open(image_input).convert("RGB")
+    # Convert input to PIL image
+    try:
+        if isinstance(input_image, str):
+            if input_image.startswith("http"):
+                response = requests.get(input_image)
+                image = Image.open(BytesIO(response.content)).convert("RGB")
+            elif os.path.exists(input_image):
+                image = Image.open(input_image).convert("RGB")
+            else:
+                raise ValueError(f"Invalid image path or URL: {input_image}")
+        elif isinstance(input_image, UploadFile):
+            contents = input_image.file.read()
+            image = Image.open(BytesIO(contents)).convert("RGB")
+        elif isinstance(input_image, bytes):
+            image = Image.open(BytesIO(input_image)).convert("RGB")
         else:
-            raise ValueError("Invalid image path or URL")
-    elif isinstance(image_input, bytes):
-        image = Image.open(io.BytesIO(image_input)).convert("RGB")
-    else:
-        raise ValueError("Unsupported image input type")
+            raise TypeError(f"Unsupported image input type: {type(input_image)}")
+    except Exception as e:
+        raise ValueError(f"Failed to load image: {e}")
 
-    # Process and generate caption
-    inputs = processor(image, return_tensors="pt").to(device)
-    output = model.generate(**inputs)
-    caption = processor.decode(output[0], skip_special_tokens=True)
+    # Generate caption
+    inputs = processor(image, return_tensors="pt")
+    out = model.generate(**inputs, max_new_tokens=75)
+    caption = processor.decode(out[0], skip_special_tokens=True)
 
     return caption
-
