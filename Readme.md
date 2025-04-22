@@ -166,10 +166,9 @@ Please open an issue or create a PR if you have ideas around:
 
 ---
 
-## 📜 License
+## License
 
-MIT License. Free to use with acknowledgment.  
-Let’s build for Africa, together. ✨
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-```
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
